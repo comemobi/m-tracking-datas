@@ -1,0 +1,694 @@
+{
+  "version": 1,
+  "lastUpdated": "2026-02-05T01:30:51.850Z",
+  "data": {
+    "6770562": {
+      "name": "(\ub300\uac80)\ub9f9\uacf5",
+      "type": "JOB"
+    },
+    "28603455": {
+      "name": "(\uc804\uc124)\ub4e4\ubd88",
+      "type": "RUNE"
+    },
+    "49378514": {
+      "name": "(\uc5d0\ud53d)\uc804\uc220\uac00",
+      "type": "RUNE"
+    },
+    "66076860": {
+      "name": "(\ud654\ubc95)\ubc84\ub2dd\uc18c\uc6b8 2\ub2e8\uacc4",
+      "type": "JOB"
+    },
+    "66533560": {
+      "name": "(\ud654\ubc95)3\uc2a4?",
+      "type": "ETC"
+    },
+    "82339440": {
+      "name": "(\uac80\uc220)\uc5f0\uacc4 \uac80\uc220",
+      "type": "JOB"
+    },
+    "111111111": {
+      "name": "(\uc804\uc124)\uae68\ub2ec\uc74c",
+      "type": "RUNE"
+    },
+    "132877504": {
+      "name": "(\ud654\ubc95)6\uc2a4 \uad00\ub828",
+      "type": "ETC"
+    },
+    "162172504": {
+      "name": "(\ubc95\uc0ac)\ub9c8\ub098\uc2e4\ub4dc-\ud53c\ud574\uac10\uc18c",
+      "type": "JOB"
+    },
+    "168942269": {
+      "name": "\uc5f0\ud0c0 \uac15\ud654\uc758 \ucd95\ubcf5",
+      "type": "PET"
+    },
+    "172694877": {
+      "name": "(\uc804\uc124)\ub2e4\ubc1c\uc0ac\uaca9",
+      "type": "RUNE"
+    },
+    "177692626": {
+      "name": "(\uc804\uc124)\uc124\uc0b0",
+      "type": "RUNE"
+    },
+    "211384737": {
+      "name": "(\uce74\ub4dc)\uc120\uc218\ud544\uc2b9",
+      "type": "ETC"
+    },
+    "213733484": {
+      "name": "(\ud790\ub7ec)\uc624\ud1a0\uc274\ub4dc",
+      "type": "JOB"
+    },
+    "226458112": {
+      "name": "(\ubc95\uc0ac)\uc544\ucf00\uc778\ud30c\uc6cc-\ube59\uacb0",
+      "type": "JOB"
+    },
+    "242198442": {
+      "name": "(\uc804\uc124)\ub9c8\ub098\uaca9\ub958",
+      "type": "RUNE"
+    },
+    "252976148": {
+      "name": "(\uc778\uccb8\ud2b8)\ucda9\uc804",
+      "type": "ETC"
+    },
+    "255594624": {
+      "name": "(\uc804\uc124)\ud3c9\uc6d0 \ubc29\ub791\uc790",
+      "type": "RUNE"
+    },
+    "271626813": {
+      "name": "(\uc804\uc124)\ud683\ubd88",
+      "type": "RUNE"
+    },
+    "297847065": {
+      "name": "\uc0c1\uae09 \uac15\ud0c0 \uac15\ud654 \ube44\uc57d",
+      "type": "ETC"
+    },
+    "307080858": {
+      "name": "(\ud790\ub7ec)\ub77c\uc774\ud504\ub9c1\ud06c-\uc11c\uc57d",
+      "type": "JOB"
+    },
+    "322764292": {
+      "name": "(\uaca9\uac00)\uc5f0\uacc4\uacf5\uaca9",
+      "type": "JOB"
+    },
+    "323735547": {
+      "name": "(\uc804\uc124)\uc800\uaca9-\ub300\uae30",
+      "type": "ETC"
+    },
+    "334555191": {
+      "name": "(\uc218\ub3c4)\ud3c9\uc628\uc758 \uc9c4\uc5b8",
+      "type": "JOB"
+    },
+    "349174146": {
+      "name": "(\ud654\ubc95)\ubc84\ub2dd\uc18c\uc6b8 1\ub2e8\uacc4",
+      "type": "JOB"
+    },
+    "360795271": {
+      "name": "(\uc804\uc124)\uc1c4\ube59",
+      "type": "RUNE"
+    },
+    "362424410": {
+      "name": "\uac15\ud654 \uce58\uba85\ud0c0 \ubb3c\uc57d",
+      "type": "ETC"
+    },
+    "363643485": {
+      "name": "(\uc545\uc0ac)3: 2\uc545\uc7a5 \uc5f0\uacc4",
+      "type": "ETC"
+    },
+    "364317758": {
+      "name": "(\uc804\uc124)\uc2f8\uc6c0\uafbc-3\uc778",
+      "type": "RUNE"
+    },
+    "374032021": {
+      "name": "(\ud790\ub7ec)\ub77c\uc774\ud504\ub9c1\ud06c",
+      "type": "JOB"
+    },
+    "383592687": {
+      "name": "(\uc804\uc124)\ucd08\uc790\uc5f0",
+      "type": "RUNE"
+    },
+    "396682298": {
+      "name": "(\uc804\uc124)\uac15\ub82c\ud568",
+      "type": "RUNE"
+    },
+    "405479686": {
+      "name": "(\uc804\uc124)\uac80\ubb34",
+      "type": "RUNE"
+    },
+    "432584033": {
+      "name": "(\ub300\uac80)\ubcf4\ubcf5",
+      "type": "JOB"
+    },
+    "439731380": {
+      "name": "\uc57c\ubb34\uc9c4 \uc751\uc6d0",
+      "type": "PET"
+    },
+    "442624048": {
+      "name": "\uce58\uba85\ud0c0 \ube44\uc57d",
+      "type": "ETC"
+    },
+    "442802449": {
+      "name": "\ud63c\ud569 \uac15\ud654 \ube44\uc57d(\uc0b0\uc0ac\ud0dc)",
+      "type": "ETC"
+    },
+    "444502693": {
+      "name": "\uae09\uc18c \ud68c\ud53c\uc758 \ucd95\ubcf5",
+      "type": "PET"
+    },
+    "476273610": {
+      "name": "\uc5f0\ud0c0 \uac15\ud654 \ube44\uc57d",
+      "type": "ETC"
+    },
+    "496084505": {
+      "name": "(\uc545\uc0ac)3: 3\uc545\uc7a5 \uc5f0\uacc4",
+      "type": "ETC"
+    },
+    "499069248": {
+      "name": "(\uc804\uc124)\uc9c0\ud718\uad00\uc758 \uac01\uc778",
+      "type": "RUNE"
+    },
+    "509667344": {
+      "name": "(\uc804\uc124)\uc9c0\ud718\uad00\uc758 \uac01\uc778",
+      "type": "RUNE"
+    },
+    "522689739": {
+      "name": "(\ub300\uac80)\ud0c4\ub825",
+      "type": "JOB"
+    },
+    "527407769": {
+      "name": "(\uc804\uc0ac)\ubcf5\uc218\uc2ec",
+      "type": "JOB"
+    },
+    "545818869": {
+      "name": "(\ud654\ubc95)\uc5f4\uae30 50\ud37c \ubbf8\ub9cc",
+      "type": "ETC"
+    },
+    "546977347": {
+      "name": "\uad11\uc5ed \uac15\ud654\uc758 \ucd95\ubcf5",
+      "type": "PET"
+    },
+    "553583181": {
+      "name": "(\uc804\uc124)\ube44\uc5f4\ud55c \uc77c\uaca9",
+      "type": "RUNE"
+    },
+    "568697987": {
+      "name": "(\uc804\uc124)\uc218\uc815 \uaf43\uc78e",
+      "type": "RUNE"
+    },
+    "587779927": {
+      "name": "(\uc804\uc124)\uc9c0\ud718\uad00\uc758 \uac01\uc778",
+      "type": "RUNE"
+    },
+    "590403486": {
+      "name": "(\uc804\uc124)\ud669\ud63c",
+      "type": "RUNE"
+    },
+    "607218993": {
+      "name": "(\ub4c0\ube14)\ud65c\uae30",
+      "type": "JOB"
+    },
+    "636643435": {
+      "name": "(\uc545\uc0ac)\uc5d0\ucf54",
+      "type": "JOB"
+    },
+    "639927731": {
+      "name": "(\uc218\ub3c4)\uae68\ub2ec\uc74c",
+      "type": "JOB"
+    },
+    "651658545": {
+      "name": "\uce58\uba85\ud0c0\uc758 \ucd95\ubcf5",
+      "type": "PET"
+    },
+    "673296279": {
+      "name": "\ube0c\ub808\uc774\ud06c \ud558\uc6b8\ub9c1SS",
+      "type": "PET"
+    },
+    "676280324": {
+      "name": "(\uc804\uc124)\ubc14\uc704 \uac70\uc778",
+      "type": "RUNE"
+    },
+    "678387315": {
+      "name": "(\uc804\uc124)\uc9c0\ud718\uad00\uc758 \uac01\uc778",
+      "type": "RUNE"
+    },
+    "690482864": {
+      "name": "(\ud654\ubc95)\uc624\ubc84\ud788\ud2b8+",
+      "type": "JOB"
+    },
+    "701568405": {
+      "name": "(\ud790\ub7ec)\uc0dd\uba85\uc758 \uace0\ub3d9(\ubb3c\uacb0)",
+      "type": "JOB"
+    },
+    "722617269": {
+      "name": "(\uc804\uc124)\ub098\ubb34 \uc0ac\uc2b4-\ucd94\uac00\ub370\ubbf8\uc9c0",
+      "type": "RUNE"
+    },
+    "728846727": {
+      "name": "(\uc804\uaca9)\uacfc\ucda9\uc804 \uc2a4\ud0dd",
+      "type": "JOB"
+    },
+    "738356781": {
+      "name": "(\ub300\uac80)\uc2ec\ucc0c",
+      "type": "JOB"
+    },
+    "750909214": {
+      "name": "(\ub300\uac80)\uc790\uc6d03",
+      "type": "ETC"
+    },
+    "758766087": {
+      "name": "(\uc5b4\ub824\uc6c0)\ud30c\uba78\uc758 \uc9d5\uc870",
+      "type": "ENEMY"
+    },
+    "771555707": {
+      "name": "(\uc11d\uad81)\uac10\uc804",
+      "type": "JOB"
+    },
+    "775737101": {
+      "name": "(\uc804\uc124)\uc5ec\uc2e0\uc758 \uac00\ud638",
+      "type": "RUNE"
+    },
+    "778369761": {
+      "name": "(\uc0ac\uc81c)\uc11c\uba3c\ub9c1\ucee4",
+      "type": "JOB"
+    },
+    "800702752": {
+      "name": "(\ud790\ub7ec)\ubc14\uc774\ud0c8 \ubd80\uc2a4\ud2b8",
+      "type": "JOB"
+    },
+    "801953569": {
+      "name": "(\uc804\uc124)\ud478\ub978 \uac70\ubaa9:\uae30\ud0c0\ud6a8\uacfc",
+      "type": "RUNE"
+    },
+    "808385604": {
+      "name": "(\ubc95\uc0ac)\ub9c8\ub098\uc2e4\ub4dc-\ucfe8\uac10/\ub9c8\ub098\ud68c\ubcf5",
+      "type": "JOB"
+    },
+    "818609909": {
+      "name": "\ucd94\uac00\ud0c0\uc758 \ucd95\ubcf5",
+      "type": "PET"
+    },
+    "825083561": {
+      "name": "(\ud654\ubc95)\ubc84\ub2dd\uc18c\uc6b8 3\ub2e8\uacc4",
+      "type": "JOB"
+    },
+    "828520307": {
+      "name": "(\uc804\uc0ac)\ud22c\uc9c0-\ubc1b\ub294 \ub300\ubbf8\uc9c0 \uac10\uc18c",
+      "type": "JOB"
+    },
+    "833670126": {
+      "name": "(\uc545\uc0ac)\ubb34\ub4dc\uc720\uc9c0",
+      "type": "JOB"
+    },
+    "836306853": {
+      "name": "\uac15\ud0c0 \uac15\ud654 \ube44\uc57d",
+      "type": "ETC"
+    },
+    "847875369": {
+      "name": "(\uc804\uc124)\ud478\ub978 \uac70\ubaa9:\uc2a4\ud0ac \ub300\ubbf8\uc9c0 \uc99d\uac00",
+      "type": "RUNE"
+    },
+    "905459140": {
+      "name": "\uc804\uc0ac\uc758 \uc6a9\uae30",
+      "type": "SYNERGY"
+    },
+    "924309397": {
+      "name": "(\uc804\uc124)\ub098\ubb34 \uc0ac\uc2b4",
+      "type": "RUNE"
+    },
+    "937658644": {
+      "name": "(\ub300\uac80)\ud544\uc0ac\uc758\uac01\uc624",
+      "type": "JOB"
+    },
+    "980987121": {
+      "name": "(\uc804\uc124)\uc2e0\uc131\ud55c \uc218\uc591",
+      "type": "RUNE"
+    },
+    "990361617": {
+      "name": "(\uc804\uc124)\uc5ec\uba85+",
+      "type": "RUNE"
+    },
+    "1006655172": {
+      "name": "(\uc804\uc124)\uace0\uc694\ud55c \ubc14\ub78c",
+      "type": "RUNE"
+    },
+    "1013251401": {
+      "name": "(\uc804\uc0ac)\uc544\ub9c8\ub780\uc2a4\ud0a5 \uc628",
+      "type": "JOB"
+    },
+    "1026983178": {
+      "name": "\ubc14\uc774\ud0c8 \ubd80\uc2a4\ud2b8",
+      "type": "SYNERGY"
+    },
+    "1028557856": {
+      "name": "\ube60\ub978 \uc2a4\ud0ac\uc758 \ucd95\ubcf5",
+      "type": "PET"
+    },
+    "1030401070": {
+      "name": "(\uc804\uc124)\uc6d0\uc18c\uc220\uc0ac",
+      "type": "RUNE"
+    },
+    "1040106017": {
+      "name": "(\uc5d0\ud53d)\uac80\ubb34",
+      "type": "RUNE"
+    },
+    "1047605714": {
+      "name": "(\ub300\uac80)\uc790\uc6d01",
+      "type": "ETC"
+    },
+    "1104541744": {
+      "name": "(\uc720\ub2c8\ud06c)\ube44\ud2c0\ub9b0\uc0dd\uba85\uc758\uace0\ub9ac",
+      "type": "RUNE"
+    },
+    "1121609075": {
+      "name": "(\ub3c4\uc801)\uc2a4\ub2c8\ud06c \uc5b4\ud0dd",
+      "type": "JOB"
+    },
+    "1145735845": {
+      "name": "(\uc804\uc124)\ub545\uc6b8\ub9bc",
+      "type": "RUNE"
+    },
+    "1154048891": {
+      "name": "(\ub4c0\ube14)\ud558\uc6b8\ub9c1 \ud15c\ud398\uc2a4\ud2b8",
+      "type": "JOB"
+    },
+    "1166132899": {
+      "name": "(\ub300\uac80)\uc790\uc6d02",
+      "type": "ETC"
+    },
+    "1170411770": {
+      "name": "(\uc720\ub2c8\ud06c)\ub9ac\uc2dc\ud0c0\uc758 \uc2e4\uc804\uc6a9 \uc804\ud22c\ud654",
+      "type": "RUNE"
+    },
+    "1174916091": {
+      "name": "(\uc804\uc124)\uc0c8\ubcbd\ubcc4",
+      "type": "RUNE"
+    },
+    "1177473728": {
+      "name": "(\ud654\ubc95)4\uc2a4 \uad00\ub828",
+      "type": "ETC"
+    },
+    "1184371696": {
+      "name": "(\uc804\uc124)\uac08\ub77c\uc9c4 \ub545",
+      "type": "RUNE"
+    },
+    "1187554075": {
+      "name": "(\uc804\uc124)\uc1c4\ub3c4",
+      "type": "RUNE"
+    },
+    "1197217502": {
+      "name": "\uc0c1\uae09 \ud63c\ud569 \uac15\ud654 \ube44\uc57d(\uc0b0\uc0ac\ud0dc)",
+      "type": "ETC"
+    },
+    "1214749013": {
+      "name": "(\ud654\ubc95)\ud328\uc2a4\ube0c?",
+      "type": "ETC"
+    },
+    "1264519636": {
+      "name": "(\uc804\uc124)\ubd89\uc740 \ub9f9\uc57d",
+      "type": "RUNE"
+    },
+    "1267740128": {
+      "name": "(\ub4c0\ube14)\ub9ac\ubc84\ub808\uc774\ud2b8",
+      "type": "JOB"
+    },
+    "1286100097": {
+      "name": "(\uc804\uc124)\ub3cc\uaca9\ub300\uc7a5",
+      "type": "RUNE"
+    },
+    "1291603214": {
+      "name": "(\uc74c\uc2dd)\uc5bc\uc74c \ub538\uae30\uc8fc\uc2a4",
+      "type": "ETC"
+    },
+    "1302701928": {
+      "name": "(\uac80\uc220)\ub0a0\uce74\ub85c\uc6b4 \ub208",
+      "type": "JOB"
+    },
+    "1336237190": {
+      "name": "(\uc804\uc124)\uacf5\uba85\ud558\ub294 \uc218\uc815",
+      "type": "RUNE"
+    },
+    "1340218492": {
+      "name": "(\uc804\uc124)\ud0c0\uc624\ub974\ub294\uc2ec\uc7a5",
+      "type": "RUNE"
+    },
+    "1353321856": {
+      "name": "(\uc5d0\ud53d)\ucd08\uc790\uc5f0",
+      "type": "RUNE"
+    },
+    "1391765685": {
+      "name": "\ub9c8\uc9c0\ub9c9 \uc790\ube44",
+      "type": "RUNE"
+    },
+    "1392070812": {
+      "name": "(\uc7a5\uad81)\uc800\uaca9\uc220",
+      "type": "JOB"
+    },
+    "1392602299": {
+      "name": "(\uc545\uc0ac)\ud06c\ub808\uc13c\ub3c4(\uc5f0\uc8fc\uac15\ud654)",
+      "type": "JOB"
+    },
+    "1407435667": {
+      "name": "(\ube59\uacb0)\ubca0\uc77c \uc624\ube0c \uc708\ud130",
+      "type": "JOB"
+    },
+    "1419157292": {
+      "name": "(\uc804\uc124)\uc2f8\uc6c0\uafbc-1\uc778",
+      "type": "RUNE"
+    },
+    "1419327883": {
+      "name": "(\uc545\uc0ac)\ubb34\ub4dc\ub2e4\uc6b4",
+      "type": "JOB"
+    },
+    "1431861317": {
+      "name": "\ub3c4\uc801\uc758 \uba38\uc9c0",
+      "type": "SYNERGY"
+    },
+    "1442950753": {
+      "name": "(\ud654\ubc95)1\uc2a4 \uad00\ub828",
+      "type": "ETC"
+    },
+    "1468122837": {
+      "name": "(\uc545\uc0ac)\uc138\ub808\ub098\ub370(\uc2dc\uc804\uc911)",
+      "type": "ETC"
+    },
+    "1478677912": {
+      "name": "(\ubc95\uc0ac)\uc544\ucf00\uc778\ud30c\uc6cc-\uac10\uc804",
+      "type": "JOB"
+    },
+    "1488942561": {
+      "name": "(\uc5d0\ud53d)\uc5f0\uaca9-\uac15\ud0c0",
+      "type": "RUNE"
+    },
+    "1494345085": {
+      "name": "(\ub4c0\ube14)\uc0ac\uc6b0\uc804\ub4dc \ub2c8\ub4e4",
+      "type": "JOB"
+    },
+    "1512859939": {
+      "name": "\ud654\ub824\ud55c \uc751\uc6d0",
+      "type": "PET"
+    },
+    "1513880920": {
+      "name": "(\ub3c4\uc801)\uc911\ub3c5",
+      "type": "JOB"
+    },
+    "1514527476": {
+      "name": "(\uc218\ub3c4)\uc815\ud654\uc758 \uc9c4\uc5b8",
+      "type": "JOB"
+    },
+    "1555612653": {
+      "name": "\ucf64\ubcf4 \uac15\ud654\uc758 \ucd95\ubcf5",
+      "type": "PET"
+    },
+    "1590198662": {
+      "name": "(\uc804\uc124)\uc544\ub4dd\ud55c \ube5b",
+      "type": "RUNE"
+    },
+    "1590592632": {
+      "name": "\uc0c1\uae09 \uc5f0\ud0c0 \uac15\ud654 \ube44\uc57d",
+      "type": "ETC"
+    },
+    "1605163504": {
+      "name": "(\uc804\uc0ac)\uae30\ud68c \ud3ec\ucc29",
+      "type": "JOB"
+    },
+    "1643216896": {
+      "name": "\ucf8c\uc18d\uc758 \ub0a0\uac2f\uc9d3",
+      "type": "PET"
+    },
+    "1650151435": {
+      "name": "\uc218\uc815 \uaf43\uc78e",
+      "type": "RUNE"
+    },
+    "1658873753": {
+      "name": "(\uad81\uc218)\ubc14\ub78c\uacb0",
+      "type": "JOB"
+    },
+    "1670306382": {
+      "name": "(\uc804\uc124)\uc2f8\uc6c0\uafbc-2\uc778",
+      "type": "RUNE"
+    },
+    "1674275784": {
+      "name": "(\uc11d\uad81)\uc18d\ub3c4\uc99d\uac00",
+      "type": "JOB"
+    },
+    "1683547438": {
+      "name": "(\uc804\uc124)\ub208\uba3c\ubd84\ub178",
+      "type": "RUNE"
+    },
+    "1686016397": {
+      "name": "\uac15\ud0c0 \uac15\ud654\uc758 \ucd95\ubcf5",
+      "type": "PET"
+    },
+    "1689396493": {
+      "name": "(\uac80\uc220)\uc9d1\uc911",
+      "type": "JOB"
+    },
+    "1697264664": {
+      "name": "\ubc14\uc704 \uac10\uc2dc\uc790",
+      "type": "RUNE"
+    },
+    "1703435864": {
+      "name": "(\uc804\uc124)\ubd80\uc11c\uc9c4 \ud558\ub298",
+      "type": "RUNE"
+    },
+    "1704087716": {
+      "name": "(\uc804\uc124)\uc5ec\uc2e0\uc758 \uad8c\ub2a5",
+      "type": "RUNE"
+    },
+    "1706800793": {
+      "name": "(\uc720\ub2c8\ud06c)\ud0c0\ub77d\ud55c\uc0dd\uba85\uc758\uace0\ub9ac",
+      "type": "RUNE"
+    },
+    "1712968343": {
+      "name": "(\ube59\uacb0)\ud769\ub0a0\ub9ac\ub294 \uc11c\ub9ac",
+      "type": "JOB"
+    },
+    "1716214915": {
+      "name": "(\uc804\uc124)\ub9c8\ubc95\ud0d0\uad6c\uac00",
+      "type": "RUNE"
+    },
+    "1718941246": {
+      "name": "(\ub300\uac80)\uc55e\uc790\uc138",
+      "type": "ETC"
+    },
+    "1795978473": {
+      "name": "(\ub4c0\ube14)\uc2a4\ud50c\ub9bf \uc2ac\ub798\uc2dc",
+      "type": "JOB"
+    },
+    "1804215912": {
+      "name": "(\uc11d\uad81)\ub4dc\ub77c\uc774\ube59 \ud3ec\uc2a4",
+      "type": "JOB"
+    },
+    "1809351828": {
+      "name": "(\uc804\uc124)\uc800\uaca9",
+      "type": "RUNE"
+    },
+    "1820178912": {
+      "name": "(\uc804\uc124)\uac70\uc13c \uc18c\ub098\uae30",
+      "type": "RUNE"
+    },
+    "1822308306": {
+      "name": "(\uc545\uc0ac)\ubb34\ub4dc\uc5c5",
+      "type": "JOB"
+    },
+    "1835605660": {
+      "name": "(\uc545\uc0ac)\ubaa8\ub370\ub77c\ud1a0",
+      "type": "JOB"
+    },
+    "1870274663": {
+      "name": "(\ub300\uac80)\ubd88\uad74",
+      "type": "JOB"
+    },
+    "1878652407": {
+      "name": "(\uc5d0\ud53d)\uc5f0\uaca9-\uc5f0\ud0c0",
+      "type": "RUNE"
+    },
+    "1919350846": {
+      "name": "(\ud654\ubc95)\ubd88\uae30\ub465 \ub8ec \uad00\ub828",
+      "type": "ETC"
+    },
+    "1938168255": {
+      "name": "(\uc804\uc124)\ub0c9\ud639\ud568",
+      "type": "RUNE"
+    },
+    "1958772681": {
+      "name": "(\uc804\uc124)\uc601\ud63c\uc218\ud655\uc790",
+      "type": "RUNE"
+    },
+    "1959712337": {
+      "name": "(\ubc95\uc0ac)\uc544\ucf00\uc778\ud30c\uc6cc-\ud654\uc0c1",
+      "type": "JOB"
+    },
+    "1960623825": {
+      "name": "(\ud654\ubc95)\uc5f4\uae30 50\ud37c \uc774\uc0c1",
+      "type": "ETC"
+    },
+    "1965598237": {
+      "name": "(\uc804\uc124)\ubc14\uc704 \uac70\uc778-\uac15\ud654",
+      "type": "RUNE"
+    },
+    "1968420085": {
+      "name": "(\uac80\uc220)\ud3c9\uc815",
+      "type": "JOB"
+    },
+    "1975431164": {
+      "name": "\ud53c\ud574 \uac10\uc18c \ube44\uc57d",
+      "type": "ETC"
+    },
+    "1986276347": {
+      "name": "(\uc545\uc0ac)\ud06c\ub808\uc13c\ub3c4(\uacf5\uc99d)",
+      "type": "JOB"
+    },
+    "1992220596": {
+      "name": "(\uc804\uc124)\ubd88\uc548\uc815\ud55c \ud798",
+      "type": "RUNE"
+    },
+    "1993441463": {
+      "name": "(\ub9e4\uc5b4)\ud30c\uba78\uc758 \uc9d5\uc870",
+      "type": "ENEMY"
+    },
+    "2000676383": {
+      "name": "(\uc804\uc124)\uc5c4\uc2b5\ud558\ub294 \uadf8\ub9bc\uc790",
+      "type": "RUNE"
+    },
+    "2062730019": {
+      "name": "(\ud654\ubc95)\ud328\uc2a4\ube0c?",
+      "type": "ETC"
+    },
+    "2069643387": {
+      "name": "(\ud654\ubc95)\ud328\uc2a4\ube0c \ub3c4\ud2b8\ub51c?",
+      "type": "ETC"
+    },
+    "2101857605": {
+      "name": "(\uc2e0\ud654)\ubc14\uc2a4\ub7ec\uc9c0\ub294 \ube5b",
+      "type": "RUNE"
+    },
+    "2104567939": {
+      "name": "\uac15\ud0c0 \uac15\ud654\uc758 \ucd95\ubcf5(\ud2bc\ud2bc)",
+      "type": "PET"
+    },
+    "2111955683": {
+      "name": "(\ud654\ubc95)6\uc2a4 \uad00\ub828",
+      "type": "ETC"
+    },
+    "2113102204": {
+      "name": "(\uc218\ub3c4)\ube5b\uc758 \uc9c4\uc5b8",
+      "type": "JOB"
+    },
+    "2116288665": {
+      "name": "(\uc804\uc124)\uc808\uac1c",
+      "type": "RUNE"
+    },
+    "2134346801": {
+      "name": "(\ub9e4\uc5b4)\ub179\uc544\ub0b4\ub9b0 \uac11\uc637",
+      "type": "ENEMY"
+    },
+    "2144204919": {
+      "name": "\ud504\ub85c\ud14d\uc158",
+      "type": "SYNERGY"
+    },
+    "8323211655": {
+      "name": "(\uc218\ub3c4)\ud798\uc758 \uc9c4\uc5b8",
+      "type": "JOB"
+    }
+  }
+}
