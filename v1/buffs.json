@@ -8,7 +8,9 @@
     },
     "28603455": {
       "name": "(\uc804\uc124)\ub4e4\ubd88",
-      "type": "RUNE"
+      "type": "RUNE",
+      "duration": 5,
+      "cooldown": 3
     },
     "49378514": {
       "name": "(\uc5d0\ud53d)\uc804\uc220\uac00",
@@ -48,7 +50,9 @@
     },
     "177692626": {
       "name": "(\uc804\uc124)\uc124\uc0b0",
-      "type": "RUNE"
+      "type": "RUNE",
+      "duration": 5,
+      "cooldown": 3
     },
     "211384737": {
       "name": "(\uce74\ub4dc)\uc120\uc218\ud544\uc2b9",
@@ -164,11 +168,15 @@
     },
     "499069248": {
       "name": "(\uc804\uc124)\uc9c0\ud718\uad00\uc758 \uac01\uc778",
-      "type": "RUNE"
+      "type": "RUNE",
+      "duration": 8,
+      "cooldown": 0
     },
     "509667344": {
       "name": "(\uc804\uc124)\uc9c0\ud718\uad00\uc758 \uac01\uc778",
-      "type": "RUNE"
+      "type": "RUNE",
+      "duration": 8,
+      "cooldown": 0
     },
     "522689739": {
       "name": "(\ub300\uac80)\ud0c4\ub825",
@@ -192,11 +200,15 @@
     },
     "568697987": {
       "name": "(\uc804\uc124)\uc218\uc815 \uaf43\uc78e",
-      "type": "RUNE"
+      "type": "RUNE",
+      "duration": 10,
+      "cooldown": 3
     },
     "587779927": {
       "name": "(\uc804\uc124)\uc9c0\ud718\uad00\uc758 \uac01\uc778",
-      "type": "RUNE"
+      "type": "RUNE",
+      "duration": 8,
+      "cooldown": 0
     },
     "590403486": {
       "name": "(\uc804\uc124)\ud669\ud63c",
@@ -228,7 +240,9 @@
     },
     "678387315": {
       "name": "(\uc804\uc124)\uc9c0\ud718\uad00\uc758 \uac01\uc778",
-      "type": "RUNE"
+      "type": "RUNE",
+      "duration": 8,
+      "cooldown": 0
     },
     "690482864": {
       "name": "(\ud654\ubc95)\uc624\ubc84\ud788\ud2b8+",
@@ -240,7 +254,9 @@
     },
     "722617269": {
       "name": "(\uc804\uc124)\ub098\ubb34 \uc0ac\uc2b4-\ucd94\uac00\ub370\ubbf8\uc9c0",
-      "type": "RUNE"
+      "type": "RUNE",
+      "duration": 10,
+      "cooldown": 4
     },
     "728846727": {
       "name": "(\uc804\uaca9)\uacfc\ucda9\uc804 \uc2a4\ud0dd",
@@ -312,7 +328,9 @@
     },
     "924309397": {
       "name": "(\uc804\uc124)\ub098\ubb34 \uc0ac\uc2b4",
-      "type": "RUNE"
+      "type": "RUNE",
+      "duration": 10,
+      "cooldown": 4
     },
     "937658644": {
       "name": "(\ub300\uac80)\ud544\uc0ac\uc758\uac01\uc624",
@@ -388,7 +406,9 @@
     },
     "1184371696": {
       "name": "(\uc804\uc124)\uac08\ub77c\uc9c4 \ub545",
-      "type": "RUNE"
+      "type": "RUNE",
+      "duration": 35,
+      "cooldown": 90
     },
     "1187554075": {
       "name": "(\uc804\uc124)\uc1c4\ub3c4",
@@ -500,7 +520,33 @@
     },
     "1590198662": {
       "name": "(\uc804\uc124)\uc544\ub4dd\ud55c \ube5b",
-      "type": "RUNE"
+      "type": "RUNE",
+      "duration": 20,
+      "cooldown": 90
+    },
+    "2024838942": {
+      "name": "(\uc804\uc124)\uc0b0\ub9e5 \uad70\uc8fc",
+      "type": "RUNE",
+      "duration": 20,
+      "cooldown": 90
+    },
+    "122806656": {
+      "name": "(\uc804\uc124)\ub300\ub9c8\ubc95\uc0ac",
+      "type": "RUNE",
+      "duration": 20,
+      "cooldown": 90
+    },
+    "355098955": {
+      "name": "(\uc804\uc124)\ud769\ub0a0\ub9ac\ub294 \uac80",
+      "type": "RUNE",
+      "duration": 35,
+      "cooldown": 90
+    },
+    "2127911497": {
+      "name": "(\uc804\uc124)\ucc9c\uccb4 \uc815\ub82c",
+      "type": "RUNE",
+      "duration": 10,
+      "cooldown": 0
     },
     "1590592632": {
       "name": "\uc0c1\uae09 \uc5f0\ud0c0 \uac15\ud654 \ube44\uc57d",
@@ -516,7 +562,9 @@
     },
     "1650151435": {
       "name": "\uc218\uc815 \uaf43\uc78e",
-      "type": "RUNE"
+      "type": "RUNE",
+      "duration": 10,
+      "cooldown": 3
     },
     "1658873753": {
       "name": "(\uad81\uc218)\ubc14\ub78c\uacb0",
@@ -548,7 +596,9 @@
     },
     "1703435864": {
       "name": "(\uc804\uc124)\ubd80\uc11c\uc9c4 \ud558\ub298",
-      "type": "RUNE"
+      "type": "RUNE",
+      "duration": 20,
+      "cooldown": 90
     },
     "1704087716": {
       "name": "(\uc804\uc124)\uc5ec\uc2e0\uc758 \uad8c\ub2a5",
