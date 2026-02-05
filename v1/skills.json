@@ -1,0 +1,1860 @@
+{
+  "version": 1,
+  "lastUpdated": "2026-02-05T01:11:30.812Z",
+  "data": {
+    "51167433": {
+      "name": "\uae30\uc2b5"
+    },
+    "86472813": {
+      "name": "\uc554\uc11d"
+    },
+    "89950158": {
+      "name": "\uc8c4\uc5b4\uc624\ub294 \uc8fd\uc74c (\ube59\uc758 \uc0c1\ud0dc)"
+    },
+    "111178000": {
+      "name": "\ud154\ub808\ud0a4\ub124\uc2dc\uc2a4"
+    },
+    "116993046": {
+      "name": "\uc758\uc2dd: \uc8c4\uc5b4\uc624\ub294 \uc8fd\uc74c"
+    },
+    "149058087": {
+      "name": "\ud50c\ub808\uc784 \uc5d0\ub85c\uc6b0"
+    },
+    "152109199": {
+      "name": "\uc544\uc774\uc2a4 \ub300\uac70"
+    },
+    "160164690": {
+      "name": "\ud30c\uc774\ub110 \ud788\ud2b8"
+    },
+    "195093857": {
+      "name": "\uc791\uc5f4\uc758 \uada4\uc801"
+    },
+    "221328710": {
+      "name": "\ubc88\uac1c \ub3c4\uad00"
+    },
+    "232003179": {
+      "name": "\ub77c\uc774\ud504 \ub9c1\ud06c"
+    },
+    "232233125": {
+      "name": "\ub300\uac80\uc220: \ubc14\ub78c \uac00\ub974\uae30"
+    },
+    "243901491": {
+      "name": "\ud558\ud2b8 \uc2dc\ucee4"
+    },
+    "257788101": {
+      "name": "\ud790\ub7ec\uba38\uc2dc\uae30"
+    },
+    "265343464": {
+      "name": "\uc640\uc774\uc5b4\uc0f7 \ub3c4\ud0c4"
+    },
+    "266686596": {
+      "name": "\ucc9c\ub465"
+    },
+    "267197983": {
+      "name": "\ub4a4\ud2c0\ub9b0 \uc11c\uc57d"
+    },
+    "308980164": {
+      "name": "\ud50c\ub808\uc784 \uc5d0\ub85c\uc6b0"
+    },
+    "315739895": {
+      "name": "\ucda9\uaca9\ud30c"
+    },
+    "321645751": {
+      "name": "\uc258 \ube0c\ub808\uc774\ucee4"
+    },
+    "352908878": {
+      "name": "\ud50c\ub798\uc2dc\uc624\ubc84"
+    },
+    "389599080": {
+      "name": "\ud504\ub85c\uc98c \uc624\ube0c"
+    },
+    "395433870": {
+      "name": "\ub370\uc2a4 \uc2a4\ud305\uc5b4 \uc77c\uc9c0\ub3c4"
+    },
+    "437900964": {
+      "name": "\ub77c\uc774\ud504 \ub9c1\ud06c"
+    },
+    "439867006": {
+      "name": "\uc0ac\uc6b0\uc804\ub4dc \ub2c8\ub4e4"
+    },
+    "452634018": {
+      "name": "\ud154\ub808\ud0a4\ub124\uc2dc\uc2a4"
+    },
+    "464908080": {
+      "name": "\uc774\uc2a4\ucf00\uc774\ud504 \uc2a4\ud15d (\ub3c4\ud0c4)"
+    },
+    "491446258": {
+      "name": "\ud5e4\ube10\uc988 \ub3c4\uc5b4"
+    },
+    "521545712": {
+      "name": "\ud654\uc2e0"
+    },
+    "588298707": {
+      "name": "\uc5b4\ub460\uc758 \uc190\uc544\uadc0"
+    },
+    "593413877": {
+      "name": "\ud06c\ub798\uc2dc \uc0f7"
+    },
+    "604957820": {
+      "name": "\uc544\uc774\uc2dc\ud074 \ub9c8\ud06c"
+    },
+    "655342403": {
+      "name": "\uc719 \uc624\ube0c \uc5d4\uc824"
+    },
+    "661011695": {
+      "name": "\uc4f0\ub85c\uc789 \ubd04"
+    },
+    "668059524": {
+      "name": "\ud751\uc694\uc11d \uc218\uc758(\uc758\uc2dd:\ud669\ud63c\uc758 \uc2dc\uac04 \uc0c1\ud0dc)"
+    },
+    "690559035": {
+      "name": "\uc4f0\ub85c\uc789 \ubd04 (\ud22c\ucc99)"
+    },
+    "727488643": {
+      "name": "\uc4f0\ub85c\uc789 \ubd04"
+    },
+    "730311271": {
+      "name": "\uc36c\ub354"
+    },
+    "739479483": {
+      "name": "\uc2a4\ub2c9 \uc5b4\ud0dd (\ud3c9\ud0c0 \ucd94\uac00\ud0c0\uaca9 \ub51c)"
+    },
+    "834381190": {
+      "name": "\uc11c\uba3c \ub9c1\ucee4 (\uc9c0\uc18d\ub51c)"
+    },
+    "846060737": {
+      "name": "\ud3c9\ud0c0 (\uc0b0\ub73b\ud568 \uac15\ud654)"
+    },
+    "850080225": {
+      "name": "\uc608\ub9ac\ud55c \ud654\uc0b4"
+    },
+    "874768760": {
+      "name": "\uadf8\ub9bc\uc790 \uc190"
+    },
+    "909146366": {
+      "name": "\ud154\ub808\ud0a4\ub124\uc2dc\uc2a4"
+    },
+    "925528410": {
+      "name": "\ud504\ub85c\ud14d\uc158"
+    },
+    "932847457": {
+      "name": "\uc0dd\uba85\ub825 \ud761\uc218"
+    },
+    "932954573": {
+      "name": "\uc5d0\ucf54 (\ud3c9\ud0c0 \uac15\ud654)"
+    },
+    "939148156": {
+      "name": "\ub77c\uc774\ud504 \ub9c1\ud06c"
+    },
+    "941015716": {
+      "name": "\ud68c\uc2ec\uc758 \uc77c\uaca9 (\ucd94\uac00\ud0c0\uaca9 \ub51c)"
+    },
+    "945708204": {
+      "name": "\uc560\ub85c\uc6b0 \ub9ac\ubcfc\ubc84 (\ub3c4\ud0c4)"
+    },
+    "954269340": {
+      "name": "\ud3c9\ud0c0"
+    },
+    "1009839963": {
+      "name": "\uc2a4\ud06c\ub958 \ub300\uac70"
+    },
+    "1013507071": {
+      "name": "\ud154\ub808\ud0a4\ub124\uc2dc\uc2a4"
+    },
+    "1023759294": {
+      "name": "\ub4dc\ub798\uace4 \ubca0\uc778"
+    },
+    "1033051081": {
+      "name": "\ub798\ud53c\ub4dc \ud30c\uc774\uc5b4"
+    },
+    "1033198494": {
+      "name": "\ud638\ud06c \uc0f7 (\ube0c\ub808\uc774\ud06c \ub370\ubbf8\uc9c0)"
+    },
+    "1040961060": {
+      "name": "\uc36c\ub354"
+    },
+    "1057216565": {
+      "name": "\ud654\uc5fc \uc9c0\ub300 (\uc791\uc5f4)"
+    },
+    "1069536625": {
+      "name": "\ud640\ub9ac \uc2a4\ud53c\uc5b4"
+    },
+    "1082716197": {
+      "name": "\ud504\ub9ac\uc9d5 \ud544\ub4dc"
+    },
+    "1128964240": {
+      "name": "\ub77c\uc774\uc9d5 \uc2a4\ub9e4\uc2dc"
+    },
+    "1144775654": {
+      "name": "\uc9c8\ud48d\ud0dc\uc138(\ud328\uc2dc\ube0c)"
+    },
+    "1188299051": {
+      "name": "\uc758\uc2dd: \uc8c4\uc5b4\uc624\ub294 \uc8fd\uc74c"
+    },
+    "1193830579": {
+      "name": "\uc5b4\ub460"
+    },
+    "1199358720": {
+      "name": "\uc258 \ube0c\ub808\uc774\ucee4"
+    },
+    "1200795108": {
+      "name": "\uba54\ud14c\uc624 \uc2a4\ud2b8\ub77c\uc774\ud06c"
+    },
+    "1231792982": {
+      "name": "\uc5f0\uc8fc: \uc544\ub974\ud398\uc9c0\uc624"
+    },
+    "1238521726": {
+      "name": "\ud06c\ub798\uc2dc \uc0f7"
+    },
+    "1253406219": {
+      "name": "\uc544\uc774\uc2a4 \ub300\uac70"
+    },
+    "1292588160": {
+      "name": "\uc2a4\ud06c\ub958 \ub300\uac70"
+    },
+    "1293896760": {
+      "name": "\uc0dd\uba85\uc758 \uace0\ub3d9"
+    },
+    "1304413896": {
+      "name": "\ub099\ub8b0"
+    },
+    "1386574931": {
+      "name": "\uc544\uc774\uc2a4 \ub300\uac70"
+    },
+    "1438343895": {
+      "name": "3\uc545\uc7a5: \uc885\uc5b8"
+    },
+    "1448941104": {
+      "name": "\ubcfc\ud2b8 \ub9c8\ubc95 \uc870\ud569"
+    },
+    "1453809637": {
+      "name": "\ubb34\uc758\uc2dd \uc801\uc6a9 \ud3c9\ud0c0"
+    },
+    "1482155498": {
+      "name": "\ud798\uc758 \uc9c4\uc5b8"
+    },
+    "1496966702": {
+      "name": "\ud3ec\uc774\uc98c \uc775\uc2a4\ud50c\ub85c\uc804"
+    },
+    "1513880920": {
+      "name": "\ud3ec\uc774\uc98c \uc5b4\ud0dd (\uc911\ub3c5 \ub3c4\ud2b8)"
+    },
+    "1521125899": {
+      "name": "\uc0ac\ubb34\uce58\ub294 \ub0c9\uae30"
+    },
+    "1526731732": {
+      "name": "\uac08\ub798 \ubc88\uac1c"
+    },
+    "1529662494": {
+      "name": "\ud544\uc0ac\uc758 \uc77c\uaca9(\uad81)"
+    },
+    "1535390600": {
+      "name": "\ub4a4\ud2c0\ub9b0 \uc131\uc5ed"
+    },
+    "1539693365": {
+      "name": "\uc0ac\ubb34\uce58\ub294 \ub0c9\uae30"
+    },
+    "1570230568": {
+      "name": "\uc11c\uba3c \ub8e8\ubbf8\ub108\uc2a4"
+    },
+    "1580236793": {
+      "name": "\uc2ec\uc5f0\uc758 \ucc3d"
+    },
+    "1591145622": {
+      "name": "3\uc545\uc7a5: \uc885\uc5b8"
+    },
+    "1594089371": {
+      "name": "2\uc545\uc7a5: \uc9d5\uc870"
+    },
+    "1611364497": {
+      "name": "\ucd08\uc6d4 \ub3c4\uad00 \uacfc\ucda9\uc804"
+    },
+    "1618726426": {
+      "name": "\uc258 \ube0c\ub808\uc774\ucee4"
+    },
+    "1671151255": {
+      "name": "\uc258 \ube0c\ub808\uc774\ucee4"
+    },
+    "1675740582": {
+      "name": "\ub4a4\ud2c0\ub9b0 \uc131\uc5ed"
+    },
+    "1687989980": {
+      "name": "\ud654\uc5fc \uc9c0\ub300 (\uc791\uc5f4)"
+    },
+    "1691573066": {
+      "name": "\ud154\ub808\ud0a4\ub124\uc2dc\uc2a4"
+    },
+    "1705754573": {
+      "name": "\uc4f0\ub85c\uc789 \ubd04 (\ud22c\ucc99)"
+    },
+    "1707856785": {
+      "name": "\uc0ac\uc774\ub4dc \uc2a4\ud15d (\ub3c4\ud0c4)"
+    },
+    "1711454974": {
+      "name": "\ud751\uc694\uc11d \uc218\uc758"
+    },
+    "1719791381": {
+      "name": "\uc4f0\ub85c\uc789 \ubd04"
+    },
+    "1724511412": {
+      "name": "\uc0ac\uc6b0\uc804\ub4dc \ub2c8\ub4e4(\uac15\ud654)"
+    },
+    "1746216117": {
+      "name": "\uae30\uc2b5"
+    },
+    "1746872068": {
+      "name": "\uc758\uc2dd: \ud751\uc694\uc11d \uc218\uc758"
+    },
+    "1764527382": {
+      "name": "\ud3ec\uc774\uc98c \uc5b4\ud0dd"
+    },
+    "1776999928": {
+      "name": "\ube14\ub808\uc774\uc988 (\uc791\uc5f4 \ub3c4\ud2b8)"
+    },
+    "1783006942": {
+      "name": "\uc2a4\ud06c\ub958 \ub300\uac70"
+    },
+    "1783320001": {
+      "name": "\ucd08\uc6d4 \ubc88\uac1c\ud3ed\ud48d"
+    },
+    "1791381029": {
+      "name": "\ucd9c\ud608(\uae30\uc2b5)"
+    },
+    "1795661216": {
+      "name": "\uc804\uc774 (\uc815\uc2e0 \ub3c4\ud2b8)"
+    },
+    "1803402095": {
+      "name": "\ub4dc\ub798\uace4 \ud5cc\ud130"
+    },
+    "1827667851": {
+      "name": "\ud638\ud06c \uc0f7 (\ub3c4\ud0c4)"
+    },
+    "1836826158": {
+      "name": "\uae30\uc2b5"
+    },
+    "1847600704": {
+      "name": "\uae30\uad50: \ud074\ub77c\uc774\ub9e5\uc2a4"
+    },
+    "1905491175": {
+      "name": "\ube5b\uc758\ud30c\ub3d9 (\uc9c1\uc811\uc5f0\uacb0)"
+    },
+    "1941284651": {
+      "name": "\ud0c0\uc624\ub974\ub294 \ube5b"
+    },
+    "1943362913": {
+      "name": "\ud504\ub85c\ud14d\uc158 \ubc18\uc0ac\ub51c"
+    },
+    "1980641902": {
+      "name": "\uc0dd\uba85\uc758 \uace0\ub3d9"
+    },
+    "1980938779": {
+      "name": "\uc571\uc194\ub8e8\ud2b8 \uc81c\ub85c"
+    },
+    "1995378297": {
+      "name": "\ub77c\uc774\ud504 \ub9c1\ud06c"
+    },
+    "2008829572": {
+      "name": "\uc9c0\uc18d\ud53c\ud574: \uc2e0\uc131"
+    },
+    "2021278089": {
+      "name": "\ubc30\ud2c0 \uc2ec\ud3ec\ub2c8"
+    },
+    "2052985685": {
+      "name": "\uc36c\ub354"
+    },
+    "2078076958": {
+      "name": "\uc81c\ubb3c\uc758 \ub099\uc778"
+    },
+    "2102620894": {
+      "name": "\ud50c\ub808\uc784 \uce90\ub17c"
+    },
+    "2139826930": {
+      "name": "2\uc545\uc7a5: \ubcc4\ube5b \uc18c\ub098\uae30"
+    },
+    "MeleeDefaultAttack_1": {
+      "name": "\ud3c9\ud0c0"
+    },
+    "MeleeDefaultAttack_2": {
+      "name": "\ud3c9\ud0c0"
+    },
+    "MeleeDefaultAttack_3": {
+      "name": "\ud3c9\ud0c0"
+    },
+    "MeleeDefaultAttack_4": {
+      "name": "\ud3c9\ud0c0"
+    },
+    "MeleeDefaultAttack_5": {
+      "name": "\ud3c9\ud0c0"
+    },
+    "MeleeDefaultAttack_Enhanced_1": {
+      "name": "\ud3c9\ud0c0(\uac15\ud654)"
+    },
+    "MeleeDefaultAttack_Enhanced_2": {
+      "name": "\ud3c9\ud0c0(\uac15\ud654)"
+    },
+    "MeleeDefaultAttack_Enhanced_3": {
+      "name": "\ud3c9\ud0c0(\uac15\ud654)"
+    },
+    "MeleeDefaultAttack_Enhanced_4": {
+      "name": "\ud3c9\ud0c0(\uac15\ud654)"
+    },
+    "MeleeDefaultAttack_Enhanced_5": {
+      "name": "\ud3c9\ud0c0(\uac15\ud654)"
+    },
+    "RangeDefaultAttack_1": {
+      "name": "\ud3c9\ud0c0"
+    },
+    "RangeDefaultAttack_2": {
+      "name": "\ud3c9\ud0c0"
+    },
+    "RangeDefaultAttack_3": {
+      "name": "\ud3c9\ud0c0"
+    },
+    "RangeDefaultAttack_4": {
+      "name": "\ud3c9\ud0c0"
+    },
+    "RangeDefaultAttack_5": {
+      "name": "\ud3c9\ud0c0"
+    },
+    "RangeDefaultAttack_Enhanced_1": {
+      "name": "\ud3c9\ud0c0(\uac15\ud654)"
+    },
+    "RangeDefaultAttack_Enhanced_2": {
+      "name": "\ud3c9\ud0c0(\uac15\ud654)"
+    },
+    "RangeDefaultAttack_Enhanced_3": {
+      "name": "\ud3c9\ud0c0(\uac15\ud654)"
+    },
+    "RangeDefaultAttack_Enhanced_4": {
+      "name": "\ud3c9\ud0c0(\uac15\ud654)"
+    },
+    "RangeDefaultAttack_Enhanced_5": {
+      "name": "\ud3c9\ud0c0(\uac15\ud654)"
+    },
+    "NoviceWarrior_RapidSlash_1": {
+      "name": "\uc5f0\uc18d \ubca0\uae30"
+    },
+    "NoviceWarrior_RapidSlash_2": {
+      "name": "\uc5f0\uc18d \ubca0\uae30"
+    },
+    "NoviceWarrior_RapidSlash_3": {
+      "name": "\uc5f0\uc18d \ubca0\uae30"
+    },
+    "ExpertWarrior_RapidSlash_1": {
+      "name": "\uc5f0\uc18d \ubca0\uae30"
+    },
+    "ExpertWarrior_RapidSlash_2": {
+      "name": "\uc5f0\uc18d \ubca0\uae30"
+    },
+    "ExpertWarrior_RapidSlash_3": {
+      "name": "\uc5f0\uc18d \ubca0\uae30"
+    },
+    "ExpertWarrior_RapidSlash_4": {
+      "name": "\uc5f0\uc18d \ubca0\uae30"
+    },
+    "ExpertWarrior_RapidSlash_5": {
+      "name": "\uc5f0\uc18d \ubca0\uae30"
+    },
+    "ExpertWarrior_RapidSlash_6": {
+      "name": "\uc5f0\uc18d \ubca0\uae30"
+    },
+    "ExpertWarrior_RapidSlash_Tier2A": {
+      "name": "\uc81c\uc555"
+    },
+    "ExpertWarrior_RapidSlash_Tier2A_Enhanced": {
+      "name": "\uc81c\uc555"
+    },
+    "NoviceWarrior_BladeSmash_Casting": {
+      "name": "\ube14\ub808\uc774\ub4dc \uc2a4\ub9e4\uc2dc"
+    },
+    "NoviceWarrior_BladeSmash_End": {
+      "name": "\ube14\ub808\uc774\ub4dc \uc2a4\ub9e4\uc2dc"
+    },
+    "ExpertWarrior_BladeSmash_End_Strong": {
+      "name": "\ube14\ub808\uc774\ub4dc \uc2a4\ub9e4\uc2dc"
+    },
+    "ExpertWarrior_BladeSmash_Tier1A_Casting": {
+      "name": "\ube14\ub808\uc774\ub4dc \uc2a4\ub9e4\uc2dc"
+    },
+    "ExpertWarrior_BladeSmash_Tier1A_End": {
+      "name": "\ube14\ub808\uc774\ub4dc \uc2a4\ub9e4\uc2dc"
+    },
+    "ExpertWarrior_BladeSmash_Tier1A_End_Enhanced": {
+      "name": "\ube14\ub808\uc774\ub4dc \uc2a4\ub9e4\uc2dc"
+    },
+    "NoviceWarrior_ShieldBash": {
+      "name": "\ubc29\ud328 \uce58\uae30"
+    },
+    "ExpertWarrior_ShieldBash_Strong": {
+      "name": "\ubc29\ud328 \uce58\uae30"
+    },
+    "ExpertWarrior_ShieldBash_Tier1A": {
+      "name": "\ubc29\ud328 \uce58\uae30"
+    },
+    "ExpertWarrior_ShieldBash_Tier1A_Enhanced": {
+      "name": "\ubc29\ud328 \uce58\uae30"
+    },
+    "NoviceWarrior_DashStab_Dash": {
+      "name": "\ucc0c\ub974\uae30"
+    },
+    "NoviceWarrior_DashStab_End": {
+      "name": "\ucc0c\ub974\uae30"
+    },
+    "NoviceWarrior_Jump_DashStab_Ready": {
+      "name": "\ucc0c\ub974\uae30"
+    },
+    "ExpertWarrior_DashStab_End_Strong": {
+      "name": "\ucc0c\ub974\uae30"
+    },
+    "ExpertWarrior_DashStab_Tier2A_Start": {
+      "name": "\uada4\ub6ab\uae30"
+    },
+    "ExpertWarrior_DashStab_Tier2A_End": {
+      "name": "\uaff0\ub6ab\uae30"
+    },
+    "ExpertWarrior_DashStab_Tier2A_End_2": {
+      "name": "\uaff0\ub6ab\uae30"
+    },
+    "ExpertWarrior_DashStab_Tier2A_End_Enhanced": {
+      "name": "\uada4\ub6ab\uae30"
+    },
+    "ExpertWarrior_DashStab_Tier2A_End_Enhanced_2": {
+      "name": "\uaff0\ub6ab\uae30"
+    },
+    "ExpertWarrior_AmaranthKick": {
+      "name": "\uc544\ub9c8\ub780\uc2a4\ud0a5"
+    },
+    "ExpertWarrior_BattleCry_Start": {
+      "name": "\uc804\uc7a5\uc758 \ud568\uc131"
+    },
+    "ExpertWarrior_BattleCry_Tier1A": {
+      "name": "\uc804\uc7a5\uc758 \ud568\uc131"
+    },
+    "ExpertWarrior_SwordQuake": {
+      "name": "\ube14\ub808\uc774\ub4dc \uc784\ud329\ud2b8"
+    },
+    "GreatSwordWarrior_SpinningSlash_Casting_Back": {
+      "name": "\ud68c\uc804 \ubca0\uae30"
+    },
+    "GreatSwordWarrior_SpinningSlash_Casting_Front": {
+      "name": "\ud68c\uc804 \ubca0\uae30"
+    },
+    "GreatSwordWarrior_SpinningSlash_Tier1A_Front": {
+      "name": "\ud68c\uc804 \ubca0\uae30"
+    },
+    "GreatSwordWarrior_SpinningSlash_Tier1A_Back": {
+      "name": "\ud68c\uc804 \ubca0\uae30"
+    },
+    "GreatSwordWarrior_RisingSlash_Back": {
+      "name": "\ub77c\uc774\uc9d5 \uc2a4\ub9e4\uc2dc"
+    },
+    "GreatSwordWarrior_RisingSlash_Front": {
+      "name": "\ub77c\uc774\uc9d5 \uc2a4\ub9e4\uc2dc"
+    },
+    "GreatSwordWarrior_RisingSlash_Tier2A_Start_Front": {
+      "name": "\ub77c\uc774\uc9d5 \uc2a4\ub9e4\uc2dc"
+    },
+    "GreatSwordWarrior_RisingSlash_Tier2A_Start_Back": {
+      "name": "\ub77c\uc774\uc9d5 \uc2a4\ub9e4\uc2dc"
+    },
+    "GreatSwordWarrior_RisingSlash_Tier2A_Charging_End": {
+      "name": "\ub77c\uc774\uc9d5 \uc2a4\ub9e4\uc2dc"
+    },
+    "GreatSwordWarrior_RisingSlash_Tier2A_Normal_End": {
+      "name": "\ub77c\uc774\uc9d5 \uc2a4\ub9e4\uc2dc"
+    },
+    "GreatSwordWarrior_Blockade_Back": {
+      "name": "\uc5b4\uae68\uce58\uae30"
+    },
+    "GreatSwordWarrior_Blockade_Front": {
+      "name": "\ubc1c\uad6c\ub974\uae30"
+    },
+    "GreatSwordWarrior_Slash_Back": {
+      "name": "\uac00\ub974\uae30"
+    },
+    "GreatSwordWarrior_Slash_Front": {
+      "name": "\uac00\ub974\uae30"
+    },
+    "GreatSwordWarrior_Slash_Tier2A_Charging_End": {
+      "name": "\uac00\ub974\uae30"
+    },
+    "GreatSwordWarrior_Slash_Tier2A_Normal_End": {
+      "name": "\uac00\ub974\uae30"
+    },
+    "GreatSwordWarrior_Slash_Tier2A_Start_Front": {
+      "name": "\uac00\ub974\uae30"
+    },
+    "GreatSwordWarrior_Slash_Tier2A_Start_Back": {
+      "name": "\uac00\ub974\uae30"
+    },
+    "GreatSwordWarrior_Finish_1_End": {
+      "name": "\ub300\uac80\uc220: \uc2ec\uc7a5 \ucc0c\ub974\uae30"
+    },
+    "GreatSwordWarrior_Finish_1_Start_Front": {
+      "name": "\ub300\uac80\uc220: \uc2ec\uc7a5 \ucc0c\ub974\uae30"
+    },
+    "GreatSwordWarrior_Finish_1_Start_Back": {
+      "name": "\ub300\uac80\uc220: \uc2ec\uc7a5 \ucc0c\ub974\uae30"
+    },
+    "GreatSwordWarrior_Finish_2_End": {
+      "name": "\ub300\uac80\uc220: \ub300\uc9c0 \ud729\uc4f8\uae30"
+    },
+    "GreatSwordWarrior_Finish_2_Start_Front": {
+      "name": "\ub300\uac80\uc220: \ub300\uc9c0 \ud729\uc4f8\uae30"
+    },
+    "GreatSwordWarrior_Finish_2_Start_Back": {
+      "name": "\ub300\uac80\uc220: \ub300\uc9c0 \ud729\uc4f8\uae30"
+    },
+    "GreatSwordWarrior_Finish_3_End": {
+      "name": "\ub300\uac80\uc220: \ubc14\ub78c \uac00\ub974\uae30"
+    },
+    "GreatSwordWarrior_Finish_3_Start_Front": {
+      "name": "\ub300\uac80\uc220: \ubc14\ub78c \uac00\ub974\uae30"
+    },
+    "GreatSwordWarrior_Finish_3_Start_Back": {
+      "name": "\ub300\uac80\uc220: \ubc14\ub78c \uac00\ub974\uae30"
+    },
+    "GreatSwordWarrior_MortalStrike_Start_Front": {
+      "name": "\ud544\uc0ac\uc758 \uc77c\uaca9"
+    },
+    "GreatSwordWarrior_MortalStrike_Start_Back": {
+      "name": "\ud544\uc0ac\uc758 \uc77c\uaca9"
+    },
+    "SwordMaster_SwiftAttack": {
+      "name": "\uc9c8\ud48d\ud0dc\uc138 \ud3c9\ud0c0"
+    },
+    "SwordMaster_SteelWedge": {
+      "name": "\uac15\ucca0 \uc410\uae30"
+    },
+    "SwordMaster_SteelWedge_Tier2A": {
+      "name": "\ucf8c\uac80"
+    },
+    "SwordMaster_SwordAndScabbard": {
+      "name": "\uce7c\uc9d1 \uce58\uae30"
+    },
+    "SwordMaster_SwordAndScabbard_Tier1A": {
+      "name": "\uce7c\uc9d1 \uce58\uae30(\uc555\ubc15)"
+    },
+    "SwordMaster_SwordDance": {
+      "name": "\uc9c8\ud48d \ubca0\uae30"
+    },
+    "SwordMaster_SwordDance_Tier1A": {
+      "name": "\uc9c8\ud48d \ubca0\uae30(\ubb34\ud76c)"
+    },
+    "SwordMaster_Hiken_SteelWedge": {
+      "name": "\ube44\uac80: \uac15\ucca0 \uc410\uae30"
+    },
+    "SwordMaster_Hiken_SteelWedge_Tier1A": {
+      "name": "\ube44\uac80: \uac15\ucca0 \uc410\uae30"
+    },
+    "SwordMaster_Hiken_SwordAndScabbard": {
+      "name": "\ube44\uac80: \uce7c\uc9d1 \uce58\uae30"
+    },
+    "SwordMaster_Hiken_SwordAndScabbard_Tier1A": {
+      "name": "\ube44\uac80: \uce7c\uc9d1 \uce58\uae30(\uc555\ubc15)"
+    },
+    "SwordMaster_Hiken_SwordDance": {
+      "name": "\ube44\uac80: \uc9c8\ud48d \ubca0\uae30"
+    },
+    "SwordMaster_Hiken_SwordDance_Tier1A": {
+      "name": "\ube44\uac80: \uc9c8\ud48d \ubca0\uae30(\ubb34\ud76c)"
+    },
+    "SwordMaster_Skill_Hiken_Tier2A": {
+      "name": "\ube44\uac80: \ub099\ud654"
+    },
+    "SwordMaster_Detection_Start": {
+      "name": "\uac04\ud30c"
+    },
+    "SwordMaster_Detection_End": {
+      "name": "\uac04\ud30c"
+    },
+    "SwordMaster_Detection_End1": {
+      "name": "\uac04\ud30c"
+    },
+    "SwordMaster_Detection_End2": {
+      "name": "\uac04\ud30c"
+    },
+    "SwordMaster_Flash_Start": {
+      "name": "\uc77c\uc12c"
+    },
+    "SwordMaster_Flash_End": {
+      "name": "\uc77c\uc12c"
+    },
+    "HighMage_Lightning_Casting": {
+      "name": "\ub77c\uc774\ud2b8\ub2dd"
+    },
+    "HighMage_Lightning_End": {
+      "name": "\ub77c\uc774\ud2b8\ub2dd"
+    },
+    "HighMage_Fireball_Casting": {
+      "name": "\ud30c\uc774\uc5b4\ubcfc"
+    },
+    "HighMage_MeteorStrike_Tier2A_Casting": {
+      "name": "\uba54\ud14c\uc624 \uc2a4\ud2b8\ub77c\uc774\ud06c"
+    },
+    "HighMage_MeteorStrike_Tier2A_End": {
+      "name": "\uba54\ud14c\uc624 \uc2a4\ud2b8\ub77c\uc774\ud06c"
+    },
+    "HighMage_IceDagger_Casting": {
+      "name": "\uc544\uc774\uc2a4 \ub300\uac70"
+    },
+    "HighMage_IceDagger_End": {
+      "name": "\uc544\uc774\uc2a4 \ub300\uac70"
+    },
+    "HighMage_Telekinesis_Casting": {
+      "name": "\ud154\ub808\ud0a4\ub124\uc2dc\uc2a4"
+    },
+    "HighMage_Telekinesis_End": {
+      "name": "\ud154\ub808\ud0a4\ub124\uc2dc\uc2a4"
+    },
+    "HighMage_Telekinesis_Tier1A_Casting": {
+      "name": "\ud154\ub808\ud0a4\ub124\uc2dc\uc2a4"
+    },
+    "HighMage_Telekinesis_Tier1A_End": {
+      "name": "\ud154\ub808\ud0a4\ub124\uc2dc\uc2a4"
+    },
+    "HighMage_ManaStorm": {
+      "name": "\ub9c8\ub098 \uc2a4\ud1b0"
+    },
+    "HighMage_ManaStorm_Blink": {
+      "name": "\ub9c8\ub098 \uc2a4\ud1b0"
+    },
+    "HighMage_ManaStorm_Tier1A": {
+      "name": "\ub9c8\ub098 \uc2a4\ud1b0"
+    },
+    "HighMage_ManaStorm_Tier1A_Back": {
+      "name": "\ub9c8\ub098 \uc2a4\ud1b0"
+    },
+    "HighMage_ManaStorm_Tier1B_Blink": {
+      "name": "\ub9c8\ub098 \uc2a4\ud1b0"
+    },
+    "HighMage_ManaStorm_Tier1B_Blink_Back": {
+      "name": "\ub9c8\ub098 \uc2a4\ud1b0"
+    },
+    "HighMage_ManaStorm_Tier1A_Blink": {
+      "name": "\ub9c8\ub098 \uc2a4\ud1b0"
+    },
+    "HighMage_ManaStorm_Tier1B": {
+      "name": "\ub9c8\ub098 \uc2a4\ud1b0"
+    },
+    "HighMage_InfinityManaLoop": {
+      "name": "\ub9c8\ub098 \uc778\ud53c\ub2c8\ud2f0"
+    },
+    "FireMage_RapidFire_Enhanced": {
+      "name": "\ub798\ud53c\ub4dc \ud30c\uc774\uc5b4"
+    },
+    "FireMage_RapidFire_End": {
+      "name": "\ub798\ud53c\ub4dc \ud30c\uc774\uc5b4"
+    },
+    "FireMage_RapidFire_Casting": {
+      "name": "\ub798\ud53c\ub4dc \ud30c\uc774\uc5b4"
+    },
+    "FireMage_FireStorm": {
+      "name": "\ud30c\uc774\uc5b4 \uc2a4\ud1b0"
+    },
+    "FireMage_FlameCannon_Casting": {
+      "name": "\ud50c\ub808\uc784 \uce90\ub17c"
+    },
+    "FireMage_FlameCannon_Enhanced_Casting": {
+      "name": "\ud50c\ub808\uc784 \uce90\ub17c"
+    },
+    "FireMage_FlameCannon_Enhanced_End": {
+      "name": "\ud50c\ub808\uc784 \uce90\ub17c"
+    },
+    "FireMage_FlameCannon_End": {
+      "name": "\ud50c\ub808\uc784 \uce90\ub17c"
+    },
+    "FireMage_Flashover": {
+      "name": "\ud50c\ub798\uc2dc\uc624\ubc84"
+    },
+    "FireMage_Ignite": {
+      "name": "\ud06c\ub85c\uc2a4 \ud30c\uc774\uc5b4"
+    },
+    "FireMage_Incinerate_Casting": {
+      "name": "\uc778\ud398\ub974\ub178"
+    },
+    "FireMage_Incinerate_Casting_2": {
+      "name": "\uc778\ud398\ub974\ub178"
+    },
+    "FireMage_Incinerate_End_2": {
+      "name": "\uc778\ud398\ub974\ub178"
+    },
+    "IceMage_CrystalEdge_01": {
+      "name": "\ud06c\ub9ac\uc2a4\ud0c8 \uc5e3\uc9c0"
+    },
+    "IceMage_CrystalEdge_02": {
+      "name": "\ud06c\ub9ac\uc2a4\ud0c8 \uc5e3\uc9c0"
+    },
+    "IceMage_CrystalEdge_03": {
+      "name": "\ud06c\ub9ac\uc2a4\ud0c8 \uc5e3\uc9c0"
+    },
+    "IceMage_CrystalEdge_Tier2A": {
+      "name": "\ud06c\ub9ac\uc2a4\ud0c8 \uc5e3\uc9c0"
+    },
+    "IceMage_SplitSlash": {
+      "name": "\uae00\ub798\uc2dc\uc5b4 \ucee4\ud130"
+    },
+    "IceMage_IceBarrier": {
+      "name": "\uc544\uc774\uc2a4 \uc2a4\ud30c\uc774\ud06c"
+    },
+    "IceMage_IceBarrier_IdleICE": {
+      "name": "\uc544\uc774\uc2a4 \uc2a4\ud30c\uc774\ud06c"
+    },
+    "IceMage_FreezingField": {
+      "name": "\ud504\ub9ac\uc9d5 \ud544\ub4dc"
+    },
+    "IceMage_FreezingField_Tier1A_IdleICE": {
+      "name": "\ud504\ub9ac\uc9d5 \ud544\ub4dc(\uaca8\uc6b8)"
+    },
+    "IceMage_FreezingField_Tier1A": {
+      "name": "\ud504\ub9ac\uc9d5 \ud544\ub4dc(\uaca8\uc6b8)"
+    },
+    "IceMage_FrozenOrb_Start": {
+      "name": "\ud504\ub85c\uc98c \uc624\ube0c"
+    },
+    "IceMage_FrozenOrb_Loop": {
+      "name": "\ud504\ub85c\uc98c \uc624\ube0c"
+    },
+    "IceMage_FrozenOrb_Tier2A": {
+      "name": "\ud504\ub85c\uc98c \uc624\ube0c"
+    },
+    "IceMage_IceAge": {
+      "name": "\uc571\uc194\ub8e8\ud2b8 \uc81c\ub85c"
+    },
+    "LightningMage_LightningBolt_End": {
+      "name": "\ub099\ub8b0"
+    },
+    "LightningMage_LightningBolt_Casting": {
+      "name": "\ub099\ub8b0"
+    },
+    "LightningMage_Transcend_LightningBolt_Casting": {
+      "name": "\ub099\ub8b0 (\ucd08\uc6d4)"
+    },
+    "LightningMage_Transcend_LightningBolt_End": {
+      "name": "\ub099\ub8b0 (\ucd08\uc6d4)"
+    },
+    "LightningMage_MagneticStorm_End": {
+      "name": "\uc804\uc790\uae30 \ud3ed\ud48d"
+    },
+    "LightningMage_MagneticStorm_Casting": {
+      "name": "\uc804\uc790\uae30 \ud3ed\ud48d"
+    },
+    "LightningMage_Transcend_Railgun": {
+      "name": "\uc804\uc790\uae30 \ud3ed\ud48d (\ucd08\uc6d4)"
+    },
+    "LightningMage_ForkedLightning_Casting": {
+      "name": "\uac08\ub798 \ubc88\uac1c"
+    },
+    "LightningMage_ForkedLightning_End": {
+      "name": "\uac08\ub798 \ubc88\uac1c"
+    },
+    "LightningMage_ForkedLightning_Tier2A_Casting": {
+      "name": "\ubc88\uac1c \ub3c4\uad00"
+    },
+    "LightningMage_ForkedLightning_Tier2A_End": {
+      "name": "\ubc88\uac1c \ub3c4\uad00"
+    },
+    "LightningMage_PlasmaShroud_Casting": {
+      "name": "\ud50c\ub77c\uc988\ub9c8 \ub9dd\ud1a0"
+    },
+    "LightningMage_PlasmaShroud_End": {
+      "name": "\ud50c\ub77c\uc988\ub9c8 \ub9dd\ud1a0"
+    },
+    "LightningMage_PlasmaShroud_Tier1A_Casting": {
+      "name": "\ud50c\ub77c\uc988\ub9c8 \ub9dd\ud1a0"
+    },
+    "LightningMage_BallLightning": {
+      "name": "\ubc88\uac1c \uad6c\uccb4"
+    },
+    "LightningMage_Transcend_BallLightning": {
+      "name": "\ubc88\uac1c \uad6c\uccb4"
+    },
+    "LightningMage_FinalSpark_End": {
+      "name": "\ud30c\uad34\uc758 \uc12c\uad11"
+    },
+    "LightningMage_FinalSpark_Casting": {
+      "name": "\ud30c\uad34\uc758 \uc12c\uad11"
+    },
+    "LightningMage_Transcend_FinalSpark_Casting": {
+      "name": "\ud30c\uad34\uc758 \uc12c\uad11"
+    },
+    "LightningMage_Transcend_FinalSpark_End": {
+      "name": "\ud30c\uad34\uc758 \uc12c\uad11 (\ucd08\uc6d4)"
+    },
+    "LightningMage_OverCharge_End": {
+      "name": "\uacfc\ucda9\uc804"
+    },
+    "LightningMage_OverCharge_Casting": {
+      "name": "\uacfc\ucda9\uc804"
+    },
+    "LightningMage_OverCharge_Tier2A_Casting": {
+      "name": "\uacfc\ucda9\uc804"
+    },
+    "LightningMage_OverCharge_Tier2A_End": {
+      "name": "\uacfc\ucda9\uc804"
+    },
+    "LightningMage_Transcend": {
+      "name": "\ucd08\uc6d4"
+    },
+    "HighArcher_ArrowRevolver": {
+      "name": "\uc560\ub85c\uc6b0 \ub9ac\ubcfc\ubc84"
+    },
+    "HighArcher_ArrowRevolver_FireArrow": {
+      "name": "\uc560\ub85c\uc6b0 \ub9ac\ubcfc\ubc84 (\uc791\uc5f4)"
+    },
+    "ExpertArcher_ArrowRevolver_Tier2A_Bonus": {
+      "name": "\uce58\uba85\uc801\uc778 \uc0ac\uaca9"
+    },
+    "ExpertArcher_ArrowRevolver_Tier2A_Bonus_FireArrow": {
+      "name": "\uce58\uba85\uc801\uc778 \uc0ac\uaca9 (\uc791\uc5f4)"
+    },
+    "HighArcher_SideStepRight": {
+      "name": "\uc0ac\uc774\ub4dc \uc2a4\ud15d"
+    },
+    "HighArcher_SideStepRight_FireArrow": {
+      "name": "\uc0ac\uc774\ub4dc \uc2a4\ud15d (\uc791\uc5f4)"
+    },
+    "HighArcher_HawkShot": {
+      "name": "\ud638\ud06c \uc0f7"
+    },
+    "HighArcher_HawkShot_FireArrow": {
+      "name": "\ud638\ud06c \uc0f7 (\uc791\uc5f4)"
+    },
+    "HighArcher_MagnumShot": {
+      "name": "\ub9e4\uadf8\ub118 \uc0f7"
+    },
+    "HighArcher_MagnumShot_FireArrow": {
+      "name": "\ub9e4\uadf8\ub118 \uc0f7 (\uc791\uc5f4)"
+    },
+    "HighArcher_MagnumShotEnd": {
+      "name": "\ub9e4\uadf8\ub118 \uc0f7"
+    },
+    "HighArcher_MagnumShotEnd_FireArrow": {
+      "name": "\ub9e4\uadf8\ub118 \uc0f7 (\uc791\uc5f4)"
+    },
+    "HighArcher_EscapeStep": {
+      "name": "\uc774\uc2a4\ucf00\uc774\ud504 \uc2a4\ud15d"
+    },
+    "HighArcher_EscapeStep_FireArrow": {
+      "name": "\uc774\uc2a4\ucf00\uc774\ud504 \uc2a4\ud15d (\uc791\uc5f4)"
+    },
+    "ExpertArcher_MultiShot": {
+      "name": "\ub2e4\ubc1c \uc0ac\uaca9"
+    },
+    "ExpertArcher_MultiShot_FireArrow": {
+      "name": "\ub2e4\ubc1c \uc0ac\uaca9 (\uc791\uc5f4)"
+    },
+    "HighArcher_FireArrow": {
+      "name": "\uc791\uc5f4\uc758 \uada4\uc801"
+    },
+    "Arbalist_MountingShock": {
+      "name": "\ubc84\uc2a4\ud130\uc0f7"
+    },
+    "Arbalist_MountingShock_Enhanced": {
+      "name": "\ubc84\uc2a4\ud130\uc0f7"
+    },
+    "Arbalist_MountingShock_Tier2A_Strong": {
+      "name": "\ubc84\uc2a4\ud130\uc0f7"
+    },
+    "Arbalist_ShockExplosion": {
+      "name": "\uc1fc\ud06c \uc775\uc2a4\ud50c\ub85c\uc804"
+    },
+    "Arbalist_ShockExplosion_Enhanced": {
+      "name": "\uc1fc\ud06c \uc775\uc2a4\ud50c\ub85c\uc804"
+    },
+    "Arbalist_ShockExplosion_Tier1A": {
+      "name": "\uc1fc\ud06c \uc775\uc2a4\ud50c\ub85c\uc804"
+    },
+    "Arbalist_ShockExplosion_Tier1A_Strong": {
+      "name": "\uc1fc\ud06c \uc775\uc2a4\ud50c\ub85c\uc804"
+    },
+    "Arbalist_SlipThrough": {
+      "name": "\uc2ac\ub77c\uc774\ub529 \uc2a4\ud15d"
+    },
+    "Arbalist_SlipThrough_Enhanced": {
+      "name": "\uc2ac\ub77c\uc774\ub529 \uc2a4\ud15d"
+    },
+    "Arbalist_SlipThrough_Tier1B": {
+      "name": "\uc2ac\ub77c\uc774\ub529 \uc2a4\ud15d"
+    },
+    "Arbalist_SlipThrough_Tier1B_Strong": {
+      "name": "\uc2ac\ub77c\uc774\ub529 \uc2a4\ud15d"
+    },
+    "Arbalist_GustingBolt_01": {
+      "name": "\uac70\uc2a4\ud305 \ubcfc\ud2b8"
+    },
+    "Arbalist_GustingBolt_02": {
+      "name": "\uac70\uc2a4\ud305 \ubcfc\ud2b8"
+    },
+    "Arbalist_GustingBolt_01_Tier2A": {
+      "name": "\uac70\uc2a4\ud305 \ubcfc\ud2b8"
+    },
+    "Arbalist_GustingBolt_02_Tier2A": {
+      "name": "\uac70\uc2a4\ud305 \ubcfc\ud2b8"
+    },
+    "Arbalist_SpreadingBolt_01": {
+      "name": "\uc2a4\ud504\ub808\ub4dc \ubcfc\ud2b8"
+    },
+    "Arbalist_SpreadingBolt_02": {
+      "name": "\uc2a4\ud504\ub808\ub4dc \ubcfc\ud2b8"
+    },
+    "Arbalist_SpreadingBolt_03": {
+      "name": "\uc2a4\ud504\ub808\ub4dc \ubcfc\ud2b8"
+    },
+    "Arbalist_BigBang": {
+      "name": "\ud5ec \ud30c\uc774\uc5b4"
+    },
+    "LongBowMan_HeartSeeker": {
+      "name": "\ud558\ud2b8 \uc2dc\ucee4"
+    },
+    "LongBowMan_HeartSeeker_Tier2A": {
+      "name": "\ud558\ud2b8 \uc2dc\ucee4"
+    },
+    "LongBowMan_HeartSeeker_Tier2A_End_LV3": {
+      "name": "\ud558\ud2b8 \uc2dc\ucee4"
+    },
+    "LongBowMan_HeartSeeker_Tier2A_End_LV2": {
+      "name": "\ud558\ud2b8 \uc2dc\ucee4"
+    },
+    "LongBowMan_HeartSeeker_Tier2A_End_LV1": {
+      "name": "\ud558\ud2b8 \uc2dc\ucee4"
+    },
+    "LongBowMan_HeartSeeker_Tier2A_End": {
+      "name": "\ud558\ud2b8 \uc2dc\ucee4"
+    },
+    "LongBowMan_DragonBane": {
+      "name": "\ub4dc\ub798\uace4 \ubca0\uc778"
+    },
+    "LongBowMan_WingSkewer_Tier1A": {
+      "name": "\uc719 \uc2a4\ud050\uc5b4"
+    },
+    "LongBowMan_WingSkewer": {
+      "name": "\uc719 \uc2a4\ud050\uc5b4"
+    },
+    "LongBowMan_HeartBreaker_End": {
+      "name": "\ub370\ub4e4\ub9ac \uc0f7"
+    },
+    "LongBowMan_HeartBreaker": {
+      "name": "\ub370\ub4e4\ub9ac \uc0f7"
+    },
+    "LongBowMan_ShellBreaker": {
+      "name": "\uc258 \ube0c\ub808\uc774\ucee4"
+    },
+    "LongBowMan_ShellBreaker_Tier1B": {
+      "name": "\uc258 \ube0c\ub808\uc774\ucee4"
+    },
+    "LongBowMan_ShellBreaker_Tier1A": {
+      "name": "\uc258 \ube0c\ub808\uc774\ucee4"
+    },
+    "LongBowMan_DeathStinger": {
+      "name": "\ub370\uc2a4 \uc2a4\ud305\uc5b4"
+    },
+    "LongBowMan_CrashShot": {
+      "name": "\ud06c\ub798\uc2dc \uc0f7"
+    },
+    "LongBowMan_CrashShot_Tier1A": {
+      "name": "\ud06c\ub798\uc2dc \uc0f7"
+    },
+    "LongBowMan_FlameBarrage": {
+      "name": "\ud50c\ub808\uc784 \uc560\ub85c\uc6b0"
+    },
+    "LongBowMan_FlameBarrage_Tier2A": {
+      "name": "\ud50c\ub808\uc784 \uc560\ub85c\uc6b0"
+    },
+    "LongBowMan_FlameBarrage_Tier2A_End": {
+      "name": "\ud50c\ub808\uc784 \uc560\ub85c\uc6b0"
+    },
+    "LongBowMan_FlameBarrage_Tier2A_End_LV3": {
+      "name": "\ud50c\ub808\uc784 \uc560\ub85c\uc6b0"
+    },
+    "LongBowMan_FlameBarrage_Tier2A_End_LV2": {
+      "name": "\ud50c\ub808\uc784 \uc560\ub85c\uc6b0"
+    },
+    "LongBowMan_FlameBarrage_Tier2A_End_LV1": {
+      "name": "\ud50c\ub808\uc784 \uc560\ub85c\uc6b0"
+    },
+    "LongBowMan_DragonHunter": {
+      "name": "\ub4dc\ub798\uace4 \ud5cc\ud130"
+    },
+    "Healer_LifeLink": {
+      "name": "\ub77c\uc774\ud504 \ub9c1\ud06c"
+    },
+    "Healer_SummonSprite": {
+      "name": "\uc11c\uba3c \uc2a4\ud504\ub77c\uc774\ud2b8"
+    },
+    "Healer_PhantomPain": {
+      "name": "\ud32c\ud140 \ud398\uc778"
+    },
+    "Healer_Panic": {
+      "name": "\ud32c\ud140 \ud398\uc778"
+    },
+    "Healer_NerveStrike_Channeling": {
+      "name": "\uc0dd\uba85\uc758 \uace0\ub3d9"
+    },
+    "Healer_NerveStrike_End": {
+      "name": "\uc0dd\uba85\uc758 \uace0\ub3d9"
+    },
+    "Healer_LifeShield": {
+      "name": "\ud504\ub85c\ud14d\uc158"
+    },
+    "Healer_SummonAngel": {
+      "name": "\uc11c\uba3c \ub8e8\ubbf8\ub108\uc2a4"
+    },
+    "ExpertHealer_SummonLuminous_Tier1A": {
+      "name": "\uc11c\uba3c \ub8e8\ubbf8\ub108\uc2a4 (\ube5b\ubb34\ub9ac)"
+    },
+    "Healer_WingOfAngel_Start": {
+      "name": "\uc719 \uc624\ube0c \uc5d4\uc824"
+    },
+    "Healer_WingOfAngel": {
+      "name": "\uc719 \uc624\ube0c \uc5d4\uc824"
+    },
+    "Priest_Linker": {
+      "name": "\uc11c\uba3c \ub9c1\ucee4"
+    },
+    "Priest_Linker_Reuse": {
+      "name": "\uc11c\uba3c \ub9c1\ucee4"
+    },
+    "Priest_WhiteWing": {
+      "name": "\ub514\ubc14\uc778 \uc719"
+    },
+    "Priest_WhiteWing_Weak": {
+      "name": "\ub514\ubc14\uc778 \uc719"
+    },
+    "Priest_WhiteWing_Tier2A": {
+      "name": "\ud5e4\ube10\uc988 \ub3c4\uc5b4"
+    },
+    "Priest_WhiteWing_Tier2A_Weak": {
+      "name": "\ud5e4\ube10\uc988 \ub3c4\uc5b4"
+    },
+    "Priest_Sanctuary": {
+      "name": "\uc0dd\uce04\uc5b4\ub9ac"
+    },
+    "Priest_Sanctuary_End": {
+      "name": "\uc0dd\uce04\uc5b4\ub9ac"
+    },
+    "Priest_Sanctuary_Tier1A": {
+      "name": "\uc0dd\uce04\uc5b4\ub9ac"
+    },
+    "Priest_Sanctuary_Tier1A_End": {
+      "name": "\uc0dd\uce04\uc5b4\ub9ac"
+    },
+    "Priest_CelticCross": {
+      "name": "\ucf08\ud2f1 \ud06c\ub85c\uc2a4"
+    },
+    "Priest_CelticCross_Weak": {
+      "name": "\ucf08\ud2f1 \ud06c\ub85c\uc2a4"
+    },
+    "Priest_CelticCross_Tier1A": {
+      "name": "\ucf08\ud2f1 \ud06c\ub85c\uc2a4"
+    },
+    "Priest_CelticCross_Tier1A_Weak": {
+      "name": "\ucf08\ud2f1 \ud06c\ub85c\uc2a4"
+    },
+    "Priest_HolySpear": {
+      "name": "\ud640\ub9ac \uc2a4\ud53c\uc5b4"
+    },
+    "Priest_HolySpear_Tier2A": {
+      "name": "\ud53c\uc5b4\uc2f1 \ub77c\uc774\ud2b8"
+    },
+    "Priest_ChampionOfLight": {
+      "name": "\uad6c\uc6d0\uc758 \ube5b"
+    },
+    "Priest_ChampionOfLight_End": {
+      "name": "\uad6c\uc6d0\uc758 \ube5b"
+    },
+    "Priest_ChampionOfLight_HealLink": {
+      "name": "\uad6c\uc6d0\uc758 \ube5b"
+    },
+    "Monk_Skill_SurgeOfLight_Enhanced": {
+      "name": "\uc1c4\ub3c4"
+    },
+    "Monk_Skill_SurgeOfLight_03": {
+      "name": "\uc1c4\ub3c4"
+    },
+    "Monk_Skill_SurgeOfLight_02": {
+      "name": "\uc1c4\ub3c4"
+    },
+    "Monk_Skill_SurgeOfLight_01": {
+      "name": "\uc1c4\ub3c4"
+    },
+    "Monk_Skill_Thunderstrike": {
+      "name": "\ubcbd\ub825\ud0c0"
+    },
+    "Monk_Skill_Thunderstrike_Enhanced_1": {
+      "name": "\ubcbd\ub825\ud0c0"
+    },
+    "Monk_Skill_Thunderstrike_Tier2A_3": {
+      "name": "\ubcbd\ub825\uc7a5"
+    },
+    "Monk_Skill_Thunderstrike_Tier2A_1": {
+      "name": "\ubcbd\ub825\uc7a5"
+    },
+    "Monk_Skill_Thunderstrike_Tier2A_2": {
+      "name": "\ubcbd\ub825\uc7a5"
+    },
+    "Monk_Skill_Heal_Tier2A_End": {
+      "name": "\uce58\uc720"
+    },
+    "Monk_Skill_Heal_Tier2A": {
+      "name": "\uce58\uc720"
+    },
+    "Monk_Skill_Heal_End": {
+      "name": "\uce58\uc720"
+    },
+    "Monk_Skill_Heal": {
+      "name": "\uce58\uc720"
+    },
+    "Monk_Skill_Avatar_Tier1A": {
+      "name": "\ud654\uc2e0"
+    },
+    "Monk_Skill_Safeguard": {
+      "name": "\uc218\ud638\uc9c4"
+    },
+    "MeleeDefaultAttack_Avatar_1": {
+      "name": "\ud3c9\ud0c0(\ud654\uc2e0)"
+    },
+    "MeleeDefaultAttack_Avatar_3": {
+      "name": "\ud3c9\ud0c0(\ud654\uc2e0)"
+    },
+    "MeleeDefaultAttack_Avatar_2": {
+      "name": "\ud3c9\ud0c0(\ud654\uc2e0)"
+    },
+    "MeleeDefaultAttack_Avatar_4": {
+      "name": "\ud3c9\ud0c0(\ud654\uc2e0)"
+    },
+    "Monk_Skill_Oratorium": {
+      "name": "\uc2e0\ub150\uc758 \uc694\uc0c8"
+    },
+    "Bard_BardsTale_Channeling": {
+      "name": "\ubc14\uc988 \ud14c\uc77c"
+    },
+    "ExpertBard_BardsTale_Tier1A_Channeling": {
+      "name": "\ubc14\uc988 \ud14c\uc77c"
+    },
+    "Bard_BardsTale_Valor_Channeling": {
+      "name": "\uc6a9\ub9f9\uc758 \ucc2c\uac00"
+    },
+    "Bard_BardsTale_Reprise_Channeling": {
+      "name": "\ud76c\ub9dd\uc758 \uc1a1\uac00"
+    },
+    "Bard_BardsTale_Revenge_Channeling": {
+      "name": "\ubc18\uaca9\uc758 \uc11c\uace1"
+    },
+    "ExpertBard_TripleStroke_Tier2A_Valor": {
+      "name": "\uc6a9\ub9f9\uc758 \uc2a4\ud2b8\ub85c\ud06c"
+    },
+    "ExpertBard_TripleStroke_Tier2A_Reprise": {
+      "name": "\ud76c\ub9dd\uc758 \uc2a4\ud2b8\ub85c\ud06c"
+    },
+    "ExpertBard_TripleStroke_Tier2A_Revenge": {
+      "name": "\ubc18\uaca9\uc758 \uc2a4\ud2b8\ub85c\ud06c"
+    },
+    "Bard_StringShot": {
+      "name": "\uc2a4\ud2b8\ub9c1 \uc0f7"
+    },
+    "ExpertBard_StringShot_Tier1A": {
+      "name": "\uc2a4\ud2b8\ub9c1 \uc0f7"
+    },
+    "Bard_Swing": {
+      "name": "\uba5c\ub85c\ub514 \uc1fc\ud06c"
+    },
+    "Bard_Swing_DownAttack": {
+      "name": "\uba5c\ub85c\ub514 \uc1fc\ud06c"
+    },
+    "ExpertBard_MelodyShock_Tier2A": {
+      "name": "\uc2b9\ub9ac\uc758 \uc138\ub808\ubaa8\ub2c8"
+    },
+    "ExpertBard_FeignDeath_Tier1B": {
+      "name": "\ub9de\uc740 \ucc99\ud558\uae30"
+    },
+    "ExpertBard_FeignDeath_Tier1A_Windmill_1": {
+      "name": "\uc11c\ud504\ub77c\uc774\uc988 \uc0f7"
+    },
+    "Bard_Windmill_1": {
+      "name": "\ub77c\uc774\uc9d5 \uc708\ub4dc\ubc00"
+    },
+    "Bard_Windmill_2": {
+      "name": "\ub77c\uc774\uc9d5 \uc708\ub4dc\ubc00"
+    },
+    "Bard_TripleStroke": {
+      "name": "\ud2b8\ub9ac\ud50c \uc2a4\ud2b8\ub85c\ud06c"
+    },
+    "Bard_SymphonyOfDestruction": {
+      "name": "\ubc30\ud2c0 \uc2ec\ud3ec\ub2c8"
+    },
+    "BattleMusician_Climax_Tier2A": {
+      "name": "\uae30\uad50: \ud074\ub77c\uc774\ub9e5\uc2a4"
+    },
+    "BattleMusician_Climax": {
+      "name": "\uae30\uad50: \ud074\ub77c\uc774\ub9e5\uc2a4"
+    },
+    "BattleMusician_StarlightSonata_1st": {
+      "name": "1\uc545\uc7a5: \ubc24\uc758 \uc7a5\ub9c9"
+    },
+    "BattleMusician_StarlightSonata_Tier2A_1st": {
+      "name": "1\uc545\uc7a5: \ubc24\uc758 \uc7a5\ub9c9"
+    },
+    "BattleMusician_StarlightSonata_2nd_Channeling": {
+      "name": "2\uc545\uc7a5: \ubcc4\ube5b \uc18c\ub098\uae30"
+    },
+    "BattleMusician_StarlightSonata_2nd_Channeling_Enhanced": {
+      "name": "2\uc545\uc7a5: \ubcc4\ube5b \uc18c\ub098\uae30"
+    },
+    "BattleMusician_StarlightSonata_Tier2A_2nd_Start": {
+      "name": "2\uc545\uc7a5: \ubcc4\ube5b \uc18c\ub098\uae30"
+    },
+    "BattleMusician_StarlightSonata_Tier2A_2nd_End": {
+      "name": "2\uc545\uc7a5: \ubcc4\ube5b \uc18c\ub098\uae30"
+    },
+    "BattleMusician_StarlightSonata_3rd_End": {
+      "name": "3\uc545\uc7a5: \uaca9\uc815\uc758 \ud3ed\ud48d\uc6b0"
+    },
+    "BattleMusician_StarlightSonata_3rd_Casting": {
+      "name": "3\uc545\uc7a5: \uaca9\uc815\uc758 \ud3ed\ud48d\uc6b0"
+    },
+    "BattleMusician_StarlightSonata_Tier2A_3rd_Start": {
+      "name": "3\uc545\uc7a5: \uaca9\uc815\uc758 \ud3ed\ud48d\uc6b0"
+    },
+    "BattleMusician_StarlightSonata_Tier2A_3rd_End": {
+      "name": "3\uc545\uc7a5: \uaca9\uc815\uc758 \ud3ed\ud48d\uc6b0"
+    },
+    "BattleMusician_Crescendo": {
+      "name": "\uae30\uad50: \ud06c\ub808\uc13c\ub3c4"
+    },
+    "BattleMusician_Arpeggio": {
+      "name": "\uc5f0\uc8fc: \uc544\ub974\ud398\uc9c0\uc624"
+    },
+    "BattleMusician_Arpeggio_Enhanced": {
+      "name": "\uc5f0\uc8fc: \uc544\ub974\ud398\uc9c0\uc624"
+    },
+    "BattleMusician_Arpeggio_Tier1A": {
+      "name": "\uc5f0\uc8fc: \uc544\ub974\ud398\uc9c0\uc624"
+    },
+    "BattleMusician_Arpeggio_Tier1A_Enhanced": {
+      "name": "\uc5f0\uc8fc: \uc544\ub974\ud398\uc9c0\uc624"
+    },
+    "BattleMusician_Arpeggio_Tier1A_Cancel": {
+      "name": "\uc5f0\uc8fc: \uc544\ub974\ud398\uc9c0\uc624"
+    },
+    "BattleMusician_Serenade_Channeling": {
+      "name": "\uc5f0\uc8fc: \uc138\ub808\ub098\ub370"
+    },
+    "BattleMusician_Serenade_Cancel": {
+      "name": "\uc5f0\uc8fc: \uc138\ub808\ub098\ub370"
+    },
+    "BattleMusician_Serenade_Tier1A_Channeling": {
+      "name": "\uc5f0\uc8fc: \uc138\ub808\ub098\ub370"
+    },
+    "BattleMusician_Serenade_Tier1A_Enhanced": {
+      "name": "\uc5f0\uc8fc: \uc138\ub808\ub098\ub370"
+    },
+    "BattleMusician_Serenade_Tier1A_Cancel": {
+      "name": "\uc5f0\uc8fc: \uc138\ub808\ub098\ub370"
+    },
+    "BattleMusician_Cadenza_Start": {
+      "name": "\uce74\ub374\ucc28"
+    },
+    "BattleMusician_Cadenza_Extra": {
+      "name": "\uce74\ub374\ucc28"
+    },
+    "BattleMusician_Cadenza_End": {
+      "name": "\uce74\ub374\ucc28"
+    },
+    "BattleMusician_Cadenza_Play_Key1": {
+      "name": "\uce74\ub374\ucc28"
+    },
+    "BattleMusician_Cadenza_Play_Key2": {
+      "name": "\uce74\ub374\ucc28"
+    },
+    "BattleMusician_Cadenza_Play_Key3": {
+      "name": "\uce74\ub374\ucc28"
+    },
+    "BattleMusician_Cadenza_Play_Key4": {
+      "name": "\uce74\ub374\ucc28"
+    },
+    "BattleMusician_Cadenza_Play_Key5": {
+      "name": "\uce74\ub374\ucc28"
+    },
+    "BattleMusician_Cadenza_Play_Key6": {
+      "name": "\uce74\ub374\ucc28"
+    },
+    "Dancer_NaturalTurn": {
+      "name": "\ub0b4\ucd94\ub7f4 \ud134"
+    },
+    "Dancer_Adlib_Combination": {
+      "name": "\uc560\ub4dc\ub9ac\ube0c (\uc6b0\uc544+\uc815\uc5f4)"
+    },
+    "Dancer_Adlib_Passion": {
+      "name": "\uc560\ub4dc\ub9ac\ube0c (\uc815\uc5f4)"
+    },
+    "Dancer_Adlib_Elegance": {
+      "name": "\uc560\ub4dc\ub9ac\ube0c (\uc6b0\uc544)"
+    },
+    "Dancer_FencingLine": {
+      "name": "\ud504\ub860\ud2b8 \uc2a4\ud15d"
+    },
+    "Dancer_Windmill": {
+      "name": "\uc708\ub4dc\ubc00"
+    },
+    "Dancer_Pirouette": {
+      "name": "\ud53c\ub8e8\uc5e3"
+    },
+    "Dancer_Encore": {
+      "name": "\uc575\ucf5c"
+    },
+    "MeleeDefaultAttack_2_Ult": {
+      "name": "\ud3c9\ud0c0 (\ub304\uc11c)"
+    },
+    "MeleeDefaultAttack_3_Ult": {
+      "name": "\ud3c9\ud0c0 (\ub304\uc11c)"
+    },
+    "MeleeDefaultAttack_1_Ult": {
+      "name": "\ud3c9\ud0c0 (\ub304\uc11c)"
+    },
+    "RangeDefaultAttack_1_Ult": {
+      "name": "\ud3c9\ud0c0 (\ub304\uc11c \uc6d0\uac70\ub9ac)"
+    },
+    "RangeDefaultAttack_2_Ult": {
+      "name": "\ud3c9\ud0c0 (\ub304\uc11c \uc6d0\uac70\ub9ac)"
+    },
+    "Dancer_Finale_Second": {
+      "name": "\ud53c\ub0a0\ub808"
+    },
+    "Dancer_Finale_First": {
+      "name": "\ud53c\ub0a0\ub808"
+    },
+    "HighThief_ThrowingBomb": {
+      "name": "\uc4f0\ub85c\uc789 \ubd04"
+    },
+    "HighThief_ScrewDagger": {
+      "name": "\uc2a4\ud06c\ub958 \ub300\uac70"
+    },
+    "HighThief_ScrewDagger_AutoCharge": {
+      "name": "\uc2a4\ud06c\ub958 \ub300\uac70"
+    },
+    "HighThief_BackStab": {
+      "name": "\uae30\uc2b5"
+    },
+    "HighThief_Hide_Tier2A": {
+      "name": "\uc740\uc2e0 \ud0c0\uaca9"
+    },
+    "HighThief_PoisonTrap": {
+      "name": "\ud3ec\uc774\uc98c \ud2b8\ub7a9"
+    },
+    "HighThief_PoisonTrap_Tier2A": {
+      "name": "\ud3ec\uc774\uc98c \ud2b8\ub7a9"
+    },
+    "HighThief_Hide": {
+      "name": "\uc740\uc2e0"
+    },
+    "HighThief_BackStab_Tier1A": {
+      "name": "\uae30\uc2b5"
+    },
+    "HighThief_BackStab_End_Tier1A": {
+      "name": "\uae30\uc2b5"
+    },
+    "HighThief_BackStab_AutoCharge": {
+      "name": "\uae30\uc2b5"
+    },
+    "HighThief_BackStab_AutoCharge_Tier1A": {
+      "name": "\uae30\uc2b5"
+    },
+    "HighThief_BackStab_End_AutoCharge_Tier1A": {
+      "name": "\uae30\uc2b5"
+    },
+    "HighThief_BlitzRush_Stand": {
+      "name": "\ube14\ub9ac\uce20 \ub7ec\uc2dc"
+    },
+    "HighThief_BlitzRush_End_1": {
+      "name": "\ube14\ub9ac\uce20 \ub7ec\uc2dc"
+    },
+    "HighThief_BlitzRush": {
+      "name": "\ube14\ub9ac\uce20 \ub7ec\uc2dc"
+    },
+    "Fighter_ChargingFist": {
+      "name": "\ucc28\uc9d5 \ud53c\uc2a4\ud2b8"
+    },
+    "Fighter_ChargingFist_Tier2A_End": {
+      "name": "\ucc28\uc9d5 \ud53c\uc2a4\ud2b8"
+    },
+    "Fighter_ChargingFist_End": {
+      "name": "\ucc28\uc9d5 \ud53c\uc2a4\ud2b8"
+    },
+    "Fighter_ChargingFist_End_LV1": {
+      "name": "\ucc28\uc9d5 \ud53c\uc2a4\ud2b8"
+    },
+    "Fighter_ChargingFist_End_LV2": {
+      "name": "\ucc28\uc9d5 \ud53c\uc2a4\ud2b8"
+    },
+    "Fighter_ChargingFist_End_LV3": {
+      "name": "\ucc28\uc9d5 \ud53c\uc2a4\ud2b8"
+    },
+    "Fighter_ScrewUpper": {
+      "name": "\uc2a4\ud06c\ub958 \ud380\uce58"
+    },
+    "Fighter_ThrustKick": {
+      "name": "\uc2a4\ub7ec\uc2a4\ud2b8 \ud0a5"
+    },
+    "Fighter_ThrustKick_Tier1B": {
+      "name": "\uc2a4\ub7ec\uc2a4\ud2b8 \ud0a5"
+    },
+    "Fighter_AxeKick": {
+      "name": "\uc2a4\ud1b0\ud504 \ud0a5"
+    },
+    "Fighter_BackStep": {
+      "name": "\ubc31 \uc2a4\ud15d"
+    },
+    "Fighter_BackStep_Far": {
+      "name": "\ubc31 \uc2a4\ud15d"
+    },
+    "Fighter_BurstPunch_01": {
+      "name": "\ubc84\uc2a4\ud2b8 \ud380\uce58"
+    },
+    "Fighter_BurstPunch_02": {
+      "name": "\ubc84\uc2a4\ud2b8 \ud380\uce58"
+    },
+    "Fighter_BurstPunch_02_Short": {
+      "name": "\ubc84\uc2a4\ud2b8 \ud380\uce58"
+    },
+    "Fighter_BurstPunch_03": {
+      "name": "\ubc84\uc2a4\ud2b8 \ud380\uce58"
+    },
+    "Fighter_BurstPunch_03_Short": {
+      "name": "\ubc84\uc2a4\ud2b8 \ud380\uce58"
+    },
+    "Fighter_BurstPunch_01_Tier2A": {
+      "name": "\ubc84\uc2a4\ud2b8 \ud380\uce58"
+    },
+    "Fighter_BurstPunch_01_Tier2A_Short": {
+      "name": "\ubc84\uc2a4\ud2b8 \ud380\uce58"
+    },
+    "Fighter_BurstPunch_02_Tier2A": {
+      "name": "\ubc84\uc2a4\ud2b8 \ud380\uce58"
+    },
+    "Fighter_BurstPunch_02_Tier2A_Short": {
+      "name": "\ubc84\uc2a4\ud2b8 \ud380\uce58"
+    },
+    "Fighter_BurstPunch_03_Tier2A": {
+      "name": "\ubc84\uc2a4\ud2b8 \ud380\uce58"
+    },
+    "Fighter_BurstPunch_03_Tier2A_Short": {
+      "name": "\ubc84\uc2a4\ud2b8 \ud380\uce58"
+    },
+    "Fighter_Somersalt_01": {
+      "name": "\uc12c\uba38\uc194\ud2b8"
+    },
+    "Fighter_Somersalt_02": {
+      "name": "\uc12c\uba38\uc194\ud2b8"
+    },
+    "Fighter_Somersalt_02_Short": {
+      "name": "\uc12c\uba38\uc194\ud2b8"
+    },
+    "Fighter_Somersalt_03": {
+      "name": "\uc12c\uba38\uc194\ud2b8"
+    },
+    "Fighter_Somersalt_03_Short": {
+      "name": "\uc12c\uba38\uc194\ud2b8"
+    },
+    "Fighter_Somersalt_01_Tier1A": {
+      "name": "\uc12c\uba38\uc194\ud2b8"
+    },
+    "Fighter_Somersalt_01_Tier1A_Short": {
+      "name": "\uc12c\uba38\uc194\ud2b8"
+    },
+    "Fighter_Somersalt_02_Tier1A": {
+      "name": "\uc12c\uba38\uc194\ud2b8"
+    },
+    "Fighter_Somersalt_02_Tier1A_Short": {
+      "name": "\uc12c\uba38\uc194\ud2b8"
+    },
+    "Fighter_Somersalt_03_Tier1A": {
+      "name": "\uc12c\uba38\uc194\ud2b8"
+    },
+    "Fighter_Somersalt_03_Tier1A_Short": {
+      "name": "\uc12c\uba38\uc194\ud2b8"
+    },
+    "Fighter_PowerMax": {
+      "name": "\uc624\ubc84\ub4dc\ub77c\uc774\ube0c"
+    },
+    "DualBlades_OuterSlash": {
+      "name": "\uc2a4\ud50c\ub9bf \uc2ac\ub798\uc2dc"
+    },
+    "DualBlades_OuterSlash_Strong": {
+      "name": "\uc2a4\ud50c\ub9bf \ub2e4\uc6b4"
+    },
+    "DualBlades_OuterSlash_Tier1A": {
+      "name": "\uc2a4\ud50c\ub9bf \uc2ac\ub798\uc2dc"
+    },
+    "DualBlades_OuterSlash_Tier1A_Strong": {
+      "name": "\uc2a4\ud50c\ub9bf \ub2e4\uc6b4"
+    },
+    "DualBlades_GlidingFury": {
+      "name": "\uae00\ub77c\uc774\ub529 \ud4e8\ub9ac"
+    },
+    "DualBlades_GlidingFury_Strong": {
+      "name": "\ub77c\uc774\ud2b8\ub2dd \ud4e8\ub9ac"
+    },
+    "DualBlades_GlidingFury_Tier2A_Strong": {
+      "name": "\ub77c\uc774\ud2b8\ub2dd \ud4e8\ub9ac"
+    },
+    "DualBlades_GlidingFury_Tier2A": {
+      "name": "\uae00\ub77c\uc774\ub529 \ud4e8\ub9ac"
+    },
+    "DualBlades_HowlingGale": {
+      "name": "\ud558\uc6b8\ub9c1 \uac8c\uc77c"
+    },
+    "DualBlades_HowlingGale_Strong": {
+      "name": "\ud558\uc6b8\ub9c1 \ud15c\ud398\uc2a4\ud2b8"
+    },
+    "DualBlades_HurricaneDance": {
+      "name": "\uc2a4\ud540 \ub7ec\uc26c"
+    },
+    "DualBlades_HurricaneDance_Strong": {
+      "name": "\uc2a4\ud06c\ub958 \ub7ec\uc2dc"
+    },
+    "DualBlades_HowlingGale_Tier1B": {
+      "name": "\ud558\uc6b8\ub9c1 \uac8c\uc77c"
+    },
+    "DualBlades_HowlingGale_Tier1B_Strong": {
+      "name": "\ud558\uc6b8\ub9c1 \ud15c\ud398\uc2a4\ud2b8"
+    },
+    "DualBlades_HowlingGale_Tier1A": {
+      "name": "\ud558\uc6b8\ub9c1 \uac8c\uc77c"
+    },
+    "DualBlades_HowlingGale_Tier1A_Strong": {
+      "name": "\ud558\uc6b8\ub9c1 \ud15c\ud398\uc2a4\ud2b8"
+    },
+    "DualBlades_DoubleCrescent_Tier1A": {
+      "name": "\ub354\ube14 \ud06c\ub808\uc13c\ud2b8"
+    },
+    "DualBlades_DoubleCrescent_Tier1A_Strong": {
+      "name": "\ub77c\uc774\uc9d5 \ud06c\ub808\uc13c\ud2b8"
+    },
+    "DualBlades_DoubleCrescent": {
+      "name": "\ub354\ube14 \ud06c\ub808\uc13c\ud2b8"
+    },
+    "DualBlades_DoubleCrescent_Strong": {
+      "name": "\ub77c\uc774\uc9d5 \ud06c\ub808\uc13c\ud2b8"
+    },
+    "DualBlades_FinalHit_01": {
+      "name": "\ud30c\uc774\ub110 \ud788\ud2b8"
+    },
+    "DualBlades_FinalHit_02": {
+      "name": "\ud30c\uc774\ub110 \ud788\ud2b8"
+    },
+    "DualBlades_FinalHit_03": {
+      "name": "\ud30c\uc774\ub110 \ud788\ud2b8"
+    },
+    "DualBlades_FinalHit_04": {
+      "name": "\ud30c\uc774\ub110 \ud788\ud2b8"
+    },
+    "DualBlades_FinalHit_05": {
+      "name": "\ud30c\uc774\ub110 \ud788\ud2b8"
+    },
+    "DualBlades_FinalHit_06": {
+      "name": "\ud30c\uc774\ub110 \ud788\ud2b8"
+    },
+    "DualBlades_FinalHit_07": {
+      "name": "\ud30c\uc774\ub110 \ud788\ud2b8"
+    },
+    "DualBlades_FinalHit_08": {
+      "name": "\ud30c\uc774\ub110 \ud788\ud2b8"
+    },
+    "DualBlades_FinalHit_09": {
+      "name": "\ud30c\uc774\ub110 \ud788\ud2b8"
+    },
+    "DualBlades_FinalHit_10": {
+      "name": "\ud30c\uc774\ub110 \ud788\ud2b8"
+    },
+    "DualBlades_FinalHit": {
+      "name": "\ud30c\uc774\ub110 \ud788\ud2b8"
+    },
+    "HighThief_ThrowingBomb_Tier1B": {
+      "name": "\uc4f0\ub85c\uc789 \ubd04"
+    },
+    "DualBlades_HurricaneDance_Tier2A_Strong": {
+      "name": "\ud68c\uc624\ub9ac"
+    },
+    "Arbalist_ShockExplosion_Tier2C_Strong": {
+      "name": "\ud560\ub85c\uc6b0 \uc0f7(\uac15\ud654)"
+    },
+    "Arbalist_ShockExplosion_Tier2C": {
+      "name": "\ud560\ub85c\uc6b0 \uc0f7"
+    },
+    "LightningMage_FinalSpark_Tier2A_Casting": {
+      "name": "\ubc88\uac1c \ud3ed\ud48d"
+    },
+    "GreatSwordWarrior_Blockade_Tier1C_Back": {
+      "name": "\uc5b4\uae68\uce58\uae30"
+    },
+    "GreatSwordWarrior_Blockade_Tier1C_Front": {
+      "name": "\uc5b4\uae68\uce58\uae30"
+    },
+    "Healer_PulseOfLife_Tier2C_Casting": {
+      "name": "\uc1c4\uc57d"
+    },
+    "SwordMaster_Detection_Tier2C": {
+      "name": "\uac04\ud30c"
+    },
+    "HighMage_Lightning_Tier2C_Casting": {
+      "name": "\uc36c\ub354"
+    },
+    "DualBlades_OuterSlash_Tier2C_Strong": {
+      "name": "\uc0ac\uc6b0\uc804\ub4dc \ub2c8\ub4e4(\uac15\ud654)"
+    },
+    "DualBlades_OuterSlash_Tier2C": {
+      "name": "\uc0ac\uc6b0\uc804\ub4dc \ub2c8\ub4e4"
+    },
+    "ExpertArcher_EscapeStep_Tier2C_Recast": {
+      "name": "\uc640\uc774\uc5b4\uc0f7"
+    },
+    "ExpertBard_BardsTale_Tier2C_Channeling": {
+      "name": "\uc804\uc124\uc758 \ubb34\uace1"
+    },
+    "PlayerCommon_Transfigure_Paladin": {
+      "name": "\ud314\ub77c\ub518"
+    },
+    "Dancer_NaturalTurn_Tier1C_Elegance": {
+      "name": "\ub0b4\uce04\ub7f4 \ud134 (\uc804\ud658)"
+    },
+    "Dancer_FencingLine_Tier2C": {
+      "name": "\uac15\ud654: \ud504\ub860\ud2b8 \uc2a4\ud15d"
+    },
+    "Monk_Skill_SurgeOfLight_Tier2C_Enhanced": {
+      "name": "\uc1c4\ub3c4"
+    },
+    "Priest_CelticCross_Tier2C": {
+      "name": "\ucf08\ud2f1\ud06c\ub85c\uc2a4 (\uc2ec\ud310)"
+    },
+    "LongBowMan_CrashShot_Tier2C": {
+      "name": "\ud1a0\ub124\uc774\ub3c4 \uc0f7"
+    },
+    "HighMage_IceDagger_Tier2A_Casting": {
+      "name": "\uc544\uc774\uc2a4\ub300\uac70"
+    },
+    "FireMage_FlameCannon_Tier2C_Casting": {
+      "name": "\ud50c\ub808\uc784 \uce90\ub17c"
+    },
+    "ExpertWarrior_BladeSmash_Tier2C_Enhanced": {
+      "name": "\ube14\ub808\uc774\ub4dc \uc2a4\uba54\uc26c"
+    },
+    "ExpertWarrior_BladeSmash_Tier2C": {
+      "name": "\ube14\ub808\uc774\ub4dc \uc2a4\uba54\uc26c"
+    },
+    "Fighter_Somersalt_Tier2C": {
+      "name": "\uc12c\uba38\uc194\ud2b8"
+    },
+    "LightningMage_MagneticStorm_Tier2C_Casting": {
+      "name": "\uc804\uc790\uae30 \ud3ed\ud48d"
+    },
+    "Arbalist_MountingShock_Tier2A": {
+      "name": "\ubc84\uc2a4\ud2b8 \uc0f7"
+    },
+    "Arbalist_SpreadingBolt_02_Tier1A": {
+      "name": "\uc2a4\ud504\ub808\ub4dc \ubcfc\ud2b8"
+    },
+    "BattleMusician_Arpeggio_Tier1C": {
+      "name": "\uc5f0\uc8fc: \uc544\ub974\ud398\uc9c0\uc624"
+    },
+    "Arbalist_SpreadingBolt_Tier1C": {
+      "name": "\uc2a4\ud504\ub808\ub4dc \ubcfc\ud2b8"
+    },
+    "Arbalist_SpreadingBolt_01_Tier1A": {
+      "name": "\uc2a4\ud504\ub808\ub4dc \ubcfc\ud2b8"
+    },
+    "Arbalist_SpreadingBolt_03_Tier1A": {
+      "name": "\uc2a4\ud504\ub808\ub4dc \ubcfc\ud2b8"
+    },
+    "HighMage_Lightning_Tier1A_Casting": {
+      "name": "\ub77c\uc774\ud2b8\ub2dd"
+    },
+    "Priest_CelticCross_Tier2C_Weak": {
+      "name": "\uc2ec\ud310"
+    },
+    "GreatSwordWarrior_SpinningSlash_End1": {
+      "name": "\ud68c\uc804 \ubca0\uae30"
+    },
+    "ExpertWarrior_DashStab_Tier1C": {
+      "name": "\ucc0c\ub974\uae30"
+    },
+    "ExpertWarrior_DashStab_Tier1C_Enhanced": {
+      "name": "\ucc0c\ub974\uae30"
+    },
+    "BreakExtend": {
+      "name": "\ud018\uc774\ud06c"
+    },
+    "LongBowMan_HeartSeeker_Tier1C": {
+      "name": "\ud788\ud2b8 \uc2dc\ucee4"
+    },
+    "BattleMusician_Serenade_Tier2C_Channeling": {
+      "name": "\uc5f0\uc8fc: \uc138\ub808\ub098\ub370"
+    },
+    "DarkShaman_TwistedSanctuary_Casting": {
+      "name": "\ub4a4\ud2c0\ub9b0 \uc131\uc5ed"
+    },
+    "DarkShaman_ShadowSpear_Casting": {
+      "name": "\uac80\uc740 \ucc3d"
+    },
+    "DarkShaman_AbyssalGrasp_Casting": {
+      "name": "\uc5b4\ub460\uc758 \uc190\uc544\uadc0"
+    },
+    "DarkShaman_EssenceDrain_Casting": {
+      "name": "\uc0dd\uba85\ub825 \ud761\uc218"
+    },
+    "DarkShaman_ShadowSpear_Tier2A_Casting": {
+      "name": "\uac80\uc740 \ucc3d"
+    },
+    "DarkShaman_EssenceDrain_Tier1A_Casting": {
+      "name": "\uc0dd\uba85\ub825 \ud761\uc218"
+    },
+    "DarkShaman_Possession_AbyssalGrasp_Casting": {
+      "name": "\uc5b4\ub460\uc758 \uc190\uc544\uadc0"
+    },
+    "DarkShaman_AbyssalGrasp_End": {
+      "name": "\uc5b4\ub460\uc758 \uc190\uc544\uadc0"
+    },
+    "DarkShaman_Possession_EssenceDrain_Casting": {
+      "name": "\uc0dd\uba85\ub825 \ud761\uc218"
+    },
+    "DarkShaman_Possession_ShadowSpear_Casting": {
+      "name": "\uac80\uc740 \ucc3d"
+    },
+    "DarkShaman_AbyssalGrasp_Tier1A_Casting": {
+      "name": "\uc5b4\ub460\uc758 \uc190\uc544\uadc0"
+    },
+    "DarkShaman_TwistedSanctuary_Tier1A_Casting": {
+      "name": "\ub4a4\ud2c0\ub9b0 \uc131\uc5ed"
+    },
+    "DualBlades_HurricaneDance_Tier1C": {
+      "name": "\uc2a4\ud540 \ub7ec\uc2dc"
+    },
+    "DualBlades_HurricaneDance_Tier1C_Strong": {
+      "name": "\uc2a4\ud06c\ub958 \ub7ec\uc2dc"
+    },
+    "Healer_NerveStrike_Tier1A_Channeling": {
+      "name": "\uc0dd\uba85\uc758 \uace0\ub3d9"
+    },
+    "HighThief_Hide_Tier1C": {
+      "name": "\uc740\uc2e0(\uc8fc\uc785\uc758 \uac01\uc778)"
+    },
+    "RangeAttack_Ice": {
+      "name": "\ud639\ud55c\uc758 \uc2dc\ub828"
+    },
+    "RangeAttack_Poison": {
+      "name": "\ub9f9\ub3c5 \uac10\uc5fc"
+    },
+    "DarkShaman_TwistedSanctuary_Tier2C_Casting": {
+      "name": "\ub4a4\ud2c0\ub9b0 \uc11c\uc57d"
+    },
+    "FireMage_RapidFire_Tier2A_Enhanced": {
+      "name": "\ub798\ud53c\ub4dc \ud30c\uc774\uc5b4"
+    },
+    "HighThief_ThrowingBomb_Tier1A": {
+      "name": "\uc4f0\ub85c\uc789 \ubd04 (\ud22c\ucc99)"
+    },
+    "BattleMusician_Arpeggio_Tier1C_Enhanced": {
+      "name": "\uc5f0\uc8fc : \uc544\ub974\ud398\uc9c0\uc624"
+    }
+  }
+}
