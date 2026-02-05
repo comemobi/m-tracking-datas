@@ -406,7 +406,7 @@
     },
     "1184371696": {
       "name": "(\uc804\uc124)\uac08\ub77c\uc9c4 \ub545",
-      "type": "RUNE",
+      "type": "EMBLEM",
       "duration": 35,
       "cooldown": 90
     },
@@ -520,25 +520,25 @@
     },
     "1590198662": {
       "name": "(\uc804\uc124)\uc544\ub4dd\ud55c \ube5b",
-      "type": "RUNE",
+      "type": "EMBLEM",
       "duration": 20,
       "cooldown": 90
     },
     "2024838942": {
       "name": "(\uc804\uc124)\uc0b0\ub9e5 \uad70\uc8fc",
-      "type": "RUNE",
+      "type": "EMBLEM",
       "duration": 20,
       "cooldown": 90
     },
     "122806656": {
       "name": "(\uc804\uc124)\ub300\ub9c8\ubc95\uc0ac",
-      "type": "RUNE",
+      "type": "EMBLEM",
       "duration": 20,
       "cooldown": 90
     },
     "355098955": {
       "name": "(\uc804\uc124)\ud769\ub0a0\ub9ac\ub294 \uac80",
-      "type": "RUNE",
+      "type": "EMBLEM",
       "duration": 35,
       "cooldown": 90
     },
@@ -596,7 +596,7 @@
     },
     "1703435864": {
       "name": "(\uc804\uc124)\ubd80\uc11c\uc9c4 \ud558\ub298",
-      "type": "RUNE",
+      "type": "EMBLEM",
       "duration": 20,
       "cooldown": 90
     },
