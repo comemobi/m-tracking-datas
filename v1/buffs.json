@@ -548,6 +548,12 @@
       "duration": 10,
       "cooldown": 0
     },
+    "2012149135": {
+      "name": "(\uc804\uc124)\ucc9c\uccb4 \uc815\ub82c 6\uc2a4\ud0dd",
+      "type": "RUNE",
+      "duration": 20,
+      "cooldown": 0
+    },
     "1590592632": {
       "name": "\uc0c1\uae09 \uc5f0\ud0c0 \uac15\ud654 \ube44\uc57d",
       "type": "ETC"
