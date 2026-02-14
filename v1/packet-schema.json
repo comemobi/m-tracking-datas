@@ -1,0 +1,51 @@
+{
+  "version": "1.0.2",
+  "packetTypes": {
+    "ATTACK": 20389,
+    "SELF_DAMAGE": 20897,
+    "ACTION": 100049,
+    "BUFF_START": 100054,
+    "BUFF_END": 100055,
+    "BUFF_UPDATE": 100058,
+    "CURRENT_HP": 100940
+  },
+  "markers": {
+    "start": "804E00000000000000",
+    "end": "124F00000000000000"
+  },
+  "hitFlags": {
+    "CRITICAL": "0x01",
+    "WEAKNESS": "0x02",
+    "BREAKED": "0x04",
+    "BREAK_OCCURRED": "0x08",
+    "SKILL_BREAK": "0x10",
+    "KILLED": "0x20",
+    "FIRST_ATTACK": "0x40",
+    "DEFAULT_ATTACK": "0x80",
+    "MULTI_HIT": "0x100",
+    "POWERFUL": "0x200",
+    "RAPID": "0x400",
+    "DOT_SUB": "0x800",
+    "CROSS_HIT": "0x1000",
+    "HEAL": "0x2000",
+    "SHIELD": "0x4000",
+    "RAGE": "0x10000",
+    "STRONG_POWERFUL": "0x200000",
+    "WEAK_POWERFUL": "0x400000",
+    "COUNTER_HIT": "0x2000000",
+    "ADDITIONAL_HIT": "0x8000000",
+    "BLEED": "0x10000000",
+    "DARK": "0x20000000",
+    "FIRE": "0x40000000",
+    "HOLY": "0x80000000",
+    "ICE": "0x100000000",
+    "ELECTRIC": "0x200000000",
+    "POISON": "0x400000000",
+    "SOUL": "0x800000000",
+    "DOT": "0x1000000000"
+  },
+  "extractor": {
+    "headerSize": 9,
+    "maxPacketLength": 10000000
+  }
+}
