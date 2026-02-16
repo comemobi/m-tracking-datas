@@ -1,5 +1,5 @@
 {
-  "version": "1.0.2",
+  "version": "1.0.0",
   "packetTypes": {
     "ATTACK": 20389,
     "SELF_DAMAGE": 20897,
@@ -7,6 +7,7 @@
     "BUFF_START": 100054,
     "BUFF_END": 100055,
     "BUFF_UPDATE": 100058,
+    "SET_HEALTH": 100203,
     "CURRENT_HP": 100940
   },
   "markers": {
